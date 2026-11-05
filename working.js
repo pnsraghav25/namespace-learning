@@ -3,7 +3,7 @@
     const COMPANY = {
         name: "Google",
         slug: "google",
-        url: `${BASE}/fleetcode/companies/google`,
+        url: `${BASE}/namespace-learning/companies/google`,
     };
 
     const WORKERS = 2;
