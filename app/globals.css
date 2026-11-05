@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Mono:wght@400;500&family=DM+Sans:wght@400;500;600;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root { color-scheme: dark; }
+* { box-sizing: border-box; }
+body { margin:0; background:#090d14; color:#e8edf5; font-family:'DM Sans',sans-serif; }
+button,input,select { font:inherit; }
+::selection { background:#244d78; color:white; }

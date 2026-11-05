@@ -1,0 +1,3287 @@
+[
+  {
+    "name": "1Kosmos0 easy · 1 medium · 0 hard–1",
+    "slug": "1kosmos",
+    "url": "https://www.talentd.in/fleetcode/companies/1kosmos"
+  },
+  {
+    "name": "6Sense0 easy · 6 medium · 1 hard–7",
+    "slug": "6sense",
+    "url": "https://www.talentd.in/fleetcode/companies/6sense"
+  },
+  {
+    "name": "Accelya1 easy · 0 medium · 0 hard–1",
+    "slug": "accelya",
+    "url": "https://www.talentd.in/fleetcode/companies/accelya"
+  },
+  {
+    "name": "Accenture62 easy · 68 medium · 12 hard–142",
+    "slug": "accenture",
+    "url": "https://www.talentd.in/fleetcode/companies/accenture"
+  },
+  {
+    "name": "Accolite4 easy · 14 medium · 1 hard–19",
+    "slug": "accolite",
+    "url": "https://www.talentd.in/fleetcode/companies/accolite"
+  },
+  {
+    "name": "Acko2 easy · 0 medium · 2 hard–4",
+    "slug": "acko",
+    "url": "https://www.talentd.in/fleetcode/companies/acko"
+  },
+  {
+    "name": "Acorns0 easy · 1 medium · 0 hard–1",
+    "slug": "acorns",
+    "url": "https://www.talentd.in/fleetcode/companies/acorns"
+  },
+  {
+    "name": "Activision1 easy · 2 medium · 0 hard–3",
+    "slug": "activision",
+    "url": "https://www.talentd.in/fleetcode/companies/activision"
+  },
+  {
+    "name": "Adobe Interview QuestionsTrees, recursion, backtracking",
+    "slug": "adobe",
+    "url": "https://www.talentd.in/fleetcode/companies/adobe"
+  },
+  {
+    "name": "ADP1 easy · 0 medium · 1 hard–2",
+    "slug": "adp",
+    "url": "https://www.talentd.in/fleetcode/companies/adp"
+  },
+  {
+    "name": "Aetion0 easy · 1 medium · 0 hard–1",
+    "slug": "aetion",
+    "url": "https://www.talentd.in/fleetcode/companies/aetion"
+  },
+  {
+    "name": "Affinity0 easy · 0 medium · 1 hard–1",
+    "slug": "affinity",
+    "url": "https://www.talentd.in/fleetcode/companies/affinity"
+  },
+  {
+    "name": "Affirm1 easy · 6 medium · 3 hard–10",
+    "slug": "affirm",
+    "url": "https://www.talentd.in/fleetcode/companies/affirm"
+  },
+  {
+    "name": "Agoda14 easy · 29 medium · 2 hard345",
+    "slug": "agoda",
+    "url": "https://www.talentd.in/fleetcode/companies/agoda"
+  },
+  {
+    "name": "Airbnb11 easy · 32 medium · 21 hard–64",
+    "slug": "airbnb",
+    "url": "https://www.talentd.in/fleetcode/companies/airbnb"
+  },
+  {
+    "name": "Airbus2 easy · 2 medium · 0 hard–4",
+    "slug": "airbus",
+    "url": "https://www.talentd.in/fleetcode/companies/airbus"
+  },
+  {
+    "name": "Airtel1 easy · 6 medium · 0 hard–7",
+    "slug": "airtel",
+    "url": "https://www.talentd.in/fleetcode/companies/airtel"
+  },
+  {
+    "name": "Airwallex0 easy · 1 medium · 0 hard–1",
+    "slug": "airwallex",
+    "url": "https://www.talentd.in/fleetcode/companies/airwallex"
+  },
+  {
+    "name": "Akamai5 easy · 7 medium · 0 hard–12",
+    "slug": "akamai",
+    "url": "https://www.talentd.in/fleetcode/companies/akamai"
+  },
+  {
+    "name": "Akuna Capital1 easy · 7 medium · 8 hard–16",
+    "slug": "akuna-capital",
+    "url": "https://www.talentd.in/fleetcode/companies/akuna-capital"
+  },
+  {
+    "name": "Alibaba0 easy · 4 medium · 1 hard–5",
+    "slug": "alibaba",
+    "url": "https://www.talentd.in/fleetcode/companies/alibaba"
+  },
+  {
+    "name": "Allincall1 easy · 0 medium · 0 hard–1",
+    "slug": "allincall",
+    "url": "https://www.talentd.in/fleetcode/companies/allincall"
+  },
+  {
+    "name": "Alphonso0 easy · 1 medium · 0 hard–1",
+    "slug": "alphonso",
+    "url": "https://www.talentd.in/fleetcode/companies/alphonso"
+  },
+  {
+    "name": "Alten1 easy · 0 medium · 0 hard–1",
+    "slug": "alten",
+    "url": "https://www.talentd.in/fleetcode/companies/alten"
+  },
+  {
+    "name": "Altimetrik3 easy · 1 medium · 0 hard–4",
+    "slug": "altimetrik",
+    "url": "https://www.talentd.in/fleetcode/companies/altimetrik"
+  },
+  {
+    "name": "Amadeus1 easy · 1 medium · 0 hard–2",
+    "slug": "amadeus",
+    "url": "https://www.talentd.in/fleetcode/companies/amadeus"
+  },
+  {
+    "name": "Amazon Interview QuestionsArrays, BFS/DFS, OOP design",
+    "slug": "amazon",
+    "url": "https://www.talentd.in/fleetcode/companies/amazon"
+  },
+  {
+    "name": "AMD8 easy · 9 medium · 0 hard–17",
+    "slug": "amd",
+    "url": "https://www.talentd.in/fleetcode/companies/amd"
+  },
+  {
+    "name": "Amdocs2 easy · 3 medium · 0 hard–5",
+    "slug": "amdocs",
+    "url": "https://www.talentd.in/fleetcode/companies/amdocs"
+  },
+  {
+    "name": "American Airlines0 easy · 1 medium · 0 hard–1",
+    "slug": "american-airlines",
+    "url": "https://www.talentd.in/fleetcode/companies/american-airlines"
+  },
+  {
+    "name": "American Express8 easy · 11 medium · 4 hard–23",
+    "slug": "american-express",
+    "url": "https://www.talentd.in/fleetcode/companies/american-express"
+  },
+  {
+    "name": "Amplitude0 easy · 1 medium · 0 hard–1",
+    "slug": "amplitude",
+    "url": "https://www.talentd.in/fleetcode/companies/amplitude"
+  },
+  {
+    "name": "Analytics Quotient2 easy · 0 medium · 0 hard–2",
+    "slug": "analytics-quotient",
+    "url": "https://www.talentd.in/fleetcode/companies/analytics-quotient"
+  },
+  {
+    "name": "Andela1 easy · 0 medium · 0 hard–1",
+    "slug": "andela",
+    "url": "https://www.talentd.in/fleetcode/companies/andela"
+  },
+  {
+    "name": "Anduril8 easy · 40 medium · 8 hard356",
+    "slug": "anduril",
+    "url": "https://www.talentd.in/fleetcode/companies/anduril"
+  },
+  {
+    "name": "Anthropic0 easy · 4 medium · 0 hard–4",
+    "slug": "anthropic",
+    "url": "https://www.talentd.in/fleetcode/companies/anthropic"
+  },
+  {
+    "name": "Anyscale0 easy · 0 medium · 1 hard–1",
+    "slug": "anyscale",
+    "url": "https://www.talentd.in/fleetcode/companies/anyscale"
+  },
+  {
+    "name": "Aon2 easy · 2 medium · 1 hard–5",
+    "slug": "aon",
+    "url": "https://www.talentd.in/fleetcode/companies/aon"
+  },
+  {
+    "name": "Apolloio0 easy · 2 medium · 1 hard–3",
+    "slug": "apolloio",
+    "url": "https://www.talentd.in/fleetcode/companies/apolloio"
+  },
+  {
+    "name": "Appdynamics1 easy · 1 medium · 0 hard–2",
+    "slug": "appdynamics",
+    "url": "https://www.talentd.in/fleetcode/companies/appdynamics"
+  },
+  {
+    "name": "Appfolio1 easy · 1 medium · 1 hard–3",
+    "slug": "appfolio",
+    "url": "https://www.talentd.in/fleetcode/companies/appfolio"
+  },
+  {
+    "name": "Apple Interview QuestionsClean code, efficiency, linked lists",
+    "slug": "apple",
+    "url": "https://www.talentd.in/fleetcode/companies/apple"
+  },
+  {
+    "name": "Applied Intuition0 easy · 7 medium · 4 hard–11",
+    "slug": "applied-intuition",
+    "url": "https://www.talentd.in/fleetcode/companies/applied-intuition"
+  },
+  {
+    "name": "Aqr Capital Management0 easy · 3 medium · 0 hard–3",
+    "slug": "aqr-capital-management",
+    "url": "https://www.talentd.in/fleetcode/companies/aqr-capital-management"
+  },
+  {
+    "name": "Arcesium0 easy · 7 medium · 6 hard–13",
+    "slug": "arcesium",
+    "url": "https://www.talentd.in/fleetcode/companies/arcesium"
+  },
+  {
+    "name": "Argo Ai0 easy · 0 medium · 2 hard–2",
+    "slug": "argo-ai",
+    "url": "https://www.talentd.in/fleetcode/companies/argo-ai"
+  },
+  {
+    "name": "Arista Networks12 easy · 27 medium · 1 hard–40",
+    "slug": "arista-networks",
+    "url": "https://www.talentd.in/fleetcode/companies/arista-networks"
+  },
+  {
+    "name": "Asana1 easy · 3 medium · 0 hard–4",
+    "slug": "asana",
+    "url": "https://www.talentd.in/fleetcode/companies/asana"
+  },
+  {
+    "name": "Ascend0 easy · 1 medium · 0 hard–1",
+    "slug": "ascend",
+    "url": "https://www.talentd.in/fleetcode/companies/ascend"
+  },
+  {
+    "name": "AT&T1 easy · 5 medium · 0 hard–6",
+    "slug": "at&t",
+    "url": "https://www.talentd.in/fleetcode/companies/at&t"
+  },
+  {
+    "name": "Athenahealth1 easy · 4 medium · 0 hard–5",
+    "slug": "athenahealth",
+    "url": "https://www.talentd.in/fleetcode/companies/athenahealth"
+  },
+  {
+    "name": "Atlassian6 easy · 42 medium · 14 hard–62",
+    "slug": "atlassian",
+    "url": "https://www.talentd.in/fleetcode/companies/atlassian"
+  },
+  {
+    "name": "Attentive2 easy · 2 medium · 2 hard–6",
+    "slug": "attentive",
+    "url": "https://www.talentd.in/fleetcode/companies/attentive"
+  },
+  {
+    "name": "Audible3 easy · 4 medium · 0 hard–7",
+    "slug": "audible",
+    "url": "https://www.talentd.in/fleetcode/companies/audible"
+  },
+  {
+    "name": "Auriga0 easy · 1 medium · 0 hard–1",
+    "slug": "auriga",
+    "url": "https://www.talentd.in/fleetcode/companies/auriga"
+  },
+  {
+    "name": "Aurora1 easy · 8 medium · 5 hard–14",
+    "slug": "aurora",
+    "url": "https://www.talentd.in/fleetcode/companies/aurora"
+  },
+  {
+    "name": "Autodesk7 easy · 18 medium · 7 hard–32",
+    "slug": "autodesk",
+    "url": "https://www.talentd.in/fleetcode/companies/autodesk"
+  },
+  {
+    "name": "Avalara0 easy · 0 medium · 1 hard–1",
+    "slug": "avalara",
+    "url": "https://www.talentd.in/fleetcode/companies/avalara"
+  },
+  {
+    "name": "Avito2 easy · 7 medium · 0 hard–9",
+    "slug": "avito",
+    "url": "https://www.talentd.in/fleetcode/companies/avito"
+  },
+  {
+    "name": "Axis Bank0 easy · 0 medium · 1 hard–1",
+    "slug": "axis-bank",
+    "url": "https://www.talentd.in/fleetcode/companies/axis-bank"
+  },
+  {
+    "name": "Axon2 easy · 7 medium · 0 hard–9",
+    "slug": "axon",
+    "url": "https://www.talentd.in/fleetcode/companies/axon"
+  },
+  {
+    "name": "Baidu0 easy · 6 medium · 5 hard–11",
+    "slug": "baidu",
+    "url": "https://www.talentd.in/fleetcode/companies/baidu"
+  },
+  {
+    "name": "Bank of America3 easy · 0 medium · 0 hard–3",
+    "slug": "bank-of-america",
+    "url": "https://www.talentd.in/fleetcode/companies/bank-of-america"
+  },
+  {
+    "name": "Barclays5 easy · 9 medium · 2 hard116",
+    "slug": "barclays",
+    "url": "https://www.talentd.in/fleetcode/companies/barclays"
+  },
+  {
+    "name": "Bcg4 easy · 6 medium · 2 hard–12",
+    "slug": "bcg",
+    "url": "https://www.talentd.in/fleetcode/companies/bcg"
+  },
+  {
+    "name": "Bending Spoons0 easy · 1 medium · 1 hard–2",
+    "slug": "bending-spoons",
+    "url": "https://www.talentd.in/fleetcode/companies/bending-spoons"
+  },
+  {
+    "name": "Bill Com0 easy · 1 medium · 0 hard–1",
+    "slug": "bill-com",
+    "url": "https://www.talentd.in/fleetcode/companies/bill-com"
+  },
+  {
+    "name": "BitGo0 easy · 10 medium · 5 hard–15",
+    "slug": "bitgo",
+    "url": "https://www.talentd.in/fleetcode/companies/bitgo"
+  },
+  {
+    "name": "Blackbuck0 easy · 2 medium · 0 hard–2",
+    "slug": "blackbuck",
+    "url": "https://www.talentd.in/fleetcode/companies/blackbuck"
+  },
+  {
+    "name": "BlackRock6 easy · 7 medium · 1 hard–14",
+    "slug": "blackrock",
+    "url": "https://www.talentd.in/fleetcode/companies/blackrock"
+  },
+  {
+    "name": "Blackstone1 easy · 0 medium · 1 hard–2",
+    "slug": "blackstone",
+    "url": "https://www.talentd.in/fleetcode/companies/blackstone"
+  },
+  {
+    "name": "Blend0 easy · 2 medium · 0 hard–2",
+    "slug": "blend",
+    "url": "https://www.talentd.in/fleetcode/companies/blend"
+  },
+  {
+    "name": "Blinkit0 easy · 3 medium · 1 hard–4",
+    "slug": "blinkit",
+    "url": "https://www.talentd.in/fleetcode/companies/blinkit"
+  },
+  {
+    "name": "Bloomberg Interview QuestionsStacks, queues, hash maps",
+    "slug": "bloomberg",
+    "url": "https://www.talentd.in/fleetcode/companies/bloomberg"
+  },
+  {
+    "name": "Bloomreach0 easy · 1 medium · 0 hard–1",
+    "slug": "bloomreach",
+    "url": "https://www.talentd.in/fleetcode/companies/bloomreach"
+  },
+  {
+    "name": "Blue Origin1 easy · 1 medium · 0 hard–2",
+    "slug": "blue-origin",
+    "url": "https://www.talentd.in/fleetcode/companies/blue-origin"
+  },
+  {
+    "name": "BNP Paribas0 easy · 0 medium · 1 hard–1",
+    "slug": "bnp-paribas",
+    "url": "https://www.talentd.in/fleetcode/companies/bnp-paribas"
+  },
+  {
+    "name": "BNY Mellon2 easy · 11 medium · 4 hard–17",
+    "slug": "bny-mellon",
+    "url": "https://www.talentd.in/fleetcode/companies/bny-mellon"
+  },
+  {
+    "name": "Boeing0 easy · 1 medium · 2 hard–3",
+    "slug": "boeing",
+    "url": "https://www.talentd.in/fleetcode/companies/boeing"
+  },
+  {
+    "name": "Bolt3 easy · 2 medium · 0 hard–5",
+    "slug": "bolt",
+    "url": "https://www.talentd.in/fleetcode/companies/bolt"
+  },
+  {
+    "name": "Booking.com2 easy · 8 medium · 4 hard–14",
+    "slug": "bookingcom",
+    "url": "https://www.talentd.in/fleetcode/companies/bookingcom"
+  },
+  {
+    "name": "Box2 easy · 3 medium · 2 hard–7",
+    "slug": "box",
+    "url": "https://www.talentd.in/fleetcode/companies/box"
+  },
+  {
+    "name": "BP0 easy · 1 medium · 0 hard–1",
+    "slug": "bp",
+    "url": "https://www.talentd.in/fleetcode/companies/bp"
+  },
+  {
+    "name": "Braze0 easy · 1 medium · 0 hard–1",
+    "slug": "braze",
+    "url": "https://www.talentd.in/fleetcode/companies/braze"
+  },
+  {
+    "name": "Bridgewater Associates0 easy · 2 medium · 0 hard–2",
+    "slug": "bridgewater-associates",
+    "url": "https://www.talentd.in/fleetcode/companies/bridgewater-associates"
+  },
+  {
+    "name": "Brillio0 easy · 1 medium · 0 hard–1",
+    "slug": "brillio",
+    "url": "https://www.talentd.in/fleetcode/companies/brillio"
+  },
+  {
+    "name": "Broadcom0 easy · 3 medium · 0 hard–3",
+    "slug": "broadcom",
+    "url": "https://www.talentd.in/fleetcode/companies/broadcom"
+  },
+  {
+    "name": "BrowserStack0 easy · 1 medium · 0 hard–1",
+    "slug": "browserstack",
+    "url": "https://www.talentd.in/fleetcode/companies/browserstack"
+  },
+  {
+    "name": "Bt Group1 easy · 0 medium · 0 hard–1",
+    "slug": "bt-group",
+    "url": "https://www.talentd.in/fleetcode/companies/bt-group"
+  },
+  {
+    "name": "Buyhatke0 easy · 1 medium · 2 hard–3",
+    "slug": "buyhatke",
+    "url": "https://www.talentd.in/fleetcode/companies/buyhatke"
+  },
+  {
+    "name": "Bytedance4 easy · 50 medium · 9 hard–63",
+    "slug": "bytedance",
+    "url": "https://www.talentd.in/fleetcode/companies/bytedance"
+  },
+  {
+    "name": "C3 Ai2 easy · 8 medium · 1 hard–11",
+    "slug": "c3-ai",
+    "url": "https://www.talentd.in/fleetcode/companies/c3-ai"
+  },
+  {
+    "name": "Cadence Design Systems2 easy · 3 medium · 2 hard–7",
+    "slug": "cadence-design-systems",
+    "url": "https://www.talentd.in/fleetcode/companies/cadence-design-systems"
+  },
+  {
+    "name": "Canonical2 easy · 1 medium · 0 hard–3",
+    "slug": "canonical",
+    "url": "https://www.talentd.in/fleetcode/companies/canonical"
+  },
+  {
+    "name": "Canva0 easy · 1 medium · 1 hard–2",
+    "slug": "canva",
+    "url": "https://www.talentd.in/fleetcode/companies/canva"
+  },
+  {
+    "name": "Capgemini18 easy · 16 medium · 2 hard–36",
+    "slug": "capgemini",
+    "url": "https://www.talentd.in/fleetcode/companies/capgemini"
+  },
+  {
+    "name": "Capital One13 easy · 39 medium · 11 hard263",
+    "slug": "capital-one",
+    "url": "https://www.talentd.in/fleetcode/companies/capital-one"
+  },
+  {
+    "name": "Careem2 easy · 4 medium · 0 hard–6",
+    "slug": "careem",
+    "url": "https://www.talentd.in/fleetcode/companies/careem"
+  },
+  {
+    "name": "Cars240 easy · 3 medium · 0 hard–3",
+    "slug": "cars24",
+    "url": "https://www.talentd.in/fleetcode/companies/cars24"
+  },
+  {
+    "name": "Carwale2 easy · 1 medium · 0 hard–3",
+    "slug": "carwale",
+    "url": "https://www.talentd.in/fleetcode/companies/carwale"
+  },
+  {
+    "name": "Cashfree0 easy · 4 medium · 1 hard–5",
+    "slug": "cashfree",
+    "url": "https://www.talentd.in/fleetcode/companies/cashfree"
+  },
+  {
+    "name": "Caterpillar1 easy · 0 medium · 0 hard–1",
+    "slug": "caterpillar",
+    "url": "https://www.talentd.in/fleetcode/companies/caterpillar"
+  },
+  {
+    "name": "Cerner1 easy · 1 medium · 0 hard–2",
+    "slug": "cerner",
+    "url": "https://www.talentd.in/fleetcode/companies/cerner"
+  },
+  {
+    "name": "Chargebee0 easy · 1 medium · 0 hard–1",
+    "slug": "chargebee",
+    "url": "https://www.talentd.in/fleetcode/companies/chargebee"
+  },
+  {
+    "name": "Chewy2 easy · 3 medium · 0 hard–5",
+    "slug": "chewy",
+    "url": "https://www.talentd.in/fleetcode/companies/chewy"
+  },
+  {
+    "name": "Chime0 easy · 3 medium · 0 hard–3",
+    "slug": "chime",
+    "url": "https://www.talentd.in/fleetcode/companies/chime"
+  },
+  {
+    "name": "Chubb0 easy · 3 medium · 1 hard–4",
+    "slug": "chubb",
+    "url": "https://www.talentd.in/fleetcode/companies/chubb"
+  },
+  {
+    "name": "Ciena1 easy · 2 medium · 0 hard–3",
+    "slug": "ciena",
+    "url": "https://www.talentd.in/fleetcode/companies/ciena"
+  },
+  {
+    "name": "Circle0 easy · 1 medium · 0 hard–1",
+    "slug": "circle",
+    "url": "https://www.talentd.in/fleetcode/companies/circle"
+  },
+  {
+    "name": "Cisco22 easy · 47 medium · 15 hard184",
+    "slug": "cisco",
+    "url": "https://www.talentd.in/fleetcode/companies/cisco"
+  },
+  {
+    "name": "Citadel6 easy · 54 medium · 29 hard–89",
+    "slug": "citadel",
+    "url": "https://www.talentd.in/fleetcode/companies/citadel"
+  },
+  {
+    "name": "Citi2 easy · 4 medium · 1 hard–7",
+    "slug": "citi",
+    "url": "https://www.talentd.in/fleetcode/companies/citi"
+  },
+  {
+    "name": "Citrix1 easy · 2 medium · 1 hard–4",
+    "slug": "citrix",
+    "url": "https://www.talentd.in/fleetcode/companies/citrix"
+  },
+  {
+    "name": "Clari0 easy · 3 medium · 0 hard–3",
+    "slug": "clari",
+    "url": "https://www.talentd.in/fleetcode/companies/clari"
+  },
+  {
+    "name": "Cleartrip0 easy · 0 medium · 1 hard–1",
+    "slug": "cleartrip",
+    "url": "https://www.talentd.in/fleetcode/companies/cleartrip"
+  },
+  {
+    "name": "Clevertap1 easy · 5 medium · 1 hard–7",
+    "slug": "clevertap",
+    "url": "https://www.talentd.in/fleetcode/companies/clevertap"
+  },
+  {
+    "name": "Cloudera2 easy · 1 medium · 0 hard–3",
+    "slug": "cloudera",
+    "url": "https://www.talentd.in/fleetcode/companies/cloudera"
+  },
+  {
+    "name": "Cloudflare1 easy · 8 medium · 2 hard–11",
+    "slug": "cloudflare",
+    "url": "https://www.talentd.in/fleetcode/companies/cloudflare"
+  },
+  {
+    "name": "Clutter0 easy · 1 medium · 0 hard–1",
+    "slug": "clutter",
+    "url": "https://www.talentd.in/fleetcode/companies/clutter"
+  },
+  {
+    "name": "CME Group1 easy · 1 medium · 1 hard–3",
+    "slug": "cme-group",
+    "url": "https://www.talentd.in/fleetcode/companies/cme-group"
+  },
+  {
+    "name": "Cockroach Labs0 easy · 1 medium · 1 hard–2",
+    "slug": "cockroach-labs",
+    "url": "https://www.talentd.in/fleetcode/companies/cockroach-labs"
+  },
+  {
+    "name": "Code Studio1 easy · 0 medium · 0 hard–1",
+    "slug": "code-studio",
+    "url": "https://www.talentd.in/fleetcode/companies/code-studio"
+  },
+  {
+    "name": "Coditas1 easy · 0 medium · 0 hard–1",
+    "slug": "coditas",
+    "url": "https://www.talentd.in/fleetcode/companies/coditas"
+  },
+  {
+    "name": "Cognizant29 easy · 15 medium · 2 hard–46",
+    "slug": "cognizant",
+    "url": "https://www.talentd.in/fleetcode/companies/cognizant"
+  },
+  {
+    "name": "Cohesity0 easy · 1 medium · 3 hard–4",
+    "slug": "cohesity",
+    "url": "https://www.talentd.in/fleetcode/companies/cohesity"
+  },
+  {
+    "name": "Coinbase2 easy · 8 medium · 2 hard–12",
+    "slug": "coinbase",
+    "url": "https://www.talentd.in/fleetcode/companies/coinbase"
+  },
+  {
+    "name": "CoinDCX1 easy · 3 medium · 0 hard–4",
+    "slug": "coindcx",
+    "url": "https://www.talentd.in/fleetcode/companies/coindcx"
+  },
+  {
+    "name": "Coinswitch Kuber1 easy · 0 medium · 0 hard–1",
+    "slug": "coinswitch-kuber",
+    "url": "https://www.talentd.in/fleetcode/companies/coinswitch-kuber"
+  },
+  {
+    "name": "Comcast4 easy · 2 medium · 0 hard–6",
+    "slug": "comcast",
+    "url": "https://www.talentd.in/fleetcode/companies/comcast"
+  },
+  {
+    "name": "Commvault1 easy · 4 medium · 0 hard–5",
+    "slug": "commvault",
+    "url": "https://www.talentd.in/fleetcode/companies/commvault"
+  },
+  {
+    "name": "Compass2 easy · 5 medium · 1 hard–8",
+    "slug": "compass",
+    "url": "https://www.talentd.in/fleetcode/companies/compass"
+  },
+  {
+    "name": "Confluent0 easy · 7 medium · 2 hard–9",
+    "slug": "confluent",
+    "url": "https://www.talentd.in/fleetcode/companies/confluent"
+  },
+  {
+    "name": "Couchbase3 easy · 3 medium · 0 hard–6",
+    "slug": "couchbase",
+    "url": "https://www.talentd.in/fleetcode/companies/couchbase"
+  },
+  {
+    "name": "Coupa0 easy · 1 medium · 0 hard–1",
+    "slug": "coupa",
+    "url": "https://www.talentd.in/fleetcode/companies/coupa"
+  },
+  {
+    "name": "Coupang3 easy · 32 medium · 13 hard148",
+    "slug": "coupang",
+    "url": "https://www.talentd.in/fleetcode/companies/coupang"
+  },
+  {
+    "name": "Coursera1 easy · 4 medium · 4 hard–9",
+    "slug": "coursera",
+    "url": "https://www.talentd.in/fleetcode/companies/coursera"
+  },
+  {
+    "name": "Cred1 easy · 1 medium · 0 hard–2",
+    "slug": "cred",
+    "url": "https://www.talentd.in/fleetcode/companies/cred"
+  },
+  {
+    "name": "Criteo7 easy · 3 medium · 0 hard–10",
+    "slug": "criteo",
+    "url": "https://www.talentd.in/fleetcode/companies/criteo"
+  },
+  {
+    "name": "CrowdStrike3 easy · 7 medium · 1 hard–11",
+    "slug": "crowdstrike",
+    "url": "https://www.talentd.in/fleetcode/companies/crowdstrike"
+  },
+  {
+    "name": "Cruise Automation0 easy · 2 medium · 0 hard–2",
+    "slug": "cruise-automation",
+    "url": "https://www.talentd.in/fleetcode/companies/cruise-automation"
+  },
+  {
+    "name": "Ctc0 easy · 1 medium · 0 hard–1",
+    "slug": "ctc",
+    "url": "https://www.talentd.in/fleetcode/companies/ctc"
+  },
+  {
+    "name": "Curefit0 easy · 1 medium · 0 hard–1",
+    "slug": "curefit",
+    "url": "https://www.talentd.in/fleetcode/companies/curefit"
+  },
+  {
+    "name": "Cvent0 easy · 2 medium · 0 hard–2",
+    "slug": "cvent",
+    "url": "https://www.talentd.in/fleetcode/companies/cvent"
+  },
+  {
+    "name": "Cyntexa0 easy · 2 medium · 2 hard–4",
+    "slug": "cyntexa",
+    "url": "https://www.talentd.in/fleetcode/companies/cyntexa"
+  },
+  {
+    "name": "Cyware0 easy · 0 medium · 1 hard–1",
+    "slug": "cyware",
+    "url": "https://www.talentd.in/fleetcode/companies/cyware"
+  },
+  {
+    "name": "D. E. Shaw12 easy · 63 medium · 30 hard3105",
+    "slug": "d-e-shaw",
+    "url": "https://www.talentd.in/fleetcode/companies/d-e-shaw"
+  },
+  {
+    "name": "Dailyhunt1 easy · 0 medium · 0 hard–1",
+    "slug": "dailyhunt",
+    "url": "https://www.talentd.in/fleetcode/companies/dailyhunt"
+  },
+  {
+    "name": "Darwinbox0 easy · 4 medium · 2 hard–6",
+    "slug": "darwinbox",
+    "url": "https://www.talentd.in/fleetcode/companies/darwinbox"
+  },
+  {
+    "name": "Dassault Sysetmes0 easy · 1 medium · 0 hard–1",
+    "slug": "dassault-sysetmes",
+    "url": "https://www.talentd.in/fleetcode/companies/dassault-sysetmes"
+  },
+  {
+    "name": "Dataart1 easy · 0 medium · 0 hard–1",
+    "slug": "dataart",
+    "url": "https://www.talentd.in/fleetcode/companies/dataart"
+  },
+  {
+    "name": "Databricks2 easy · 22 medium · 7 hard131",
+    "slug": "databricks",
+    "url": "https://www.talentd.in/fleetcode/companies/databricks"
+  },
+  {
+    "name": "Datadog4 easy · 7 medium · 3 hard–14",
+    "slug": "datadog",
+    "url": "https://www.talentd.in/fleetcode/companies/datadog"
+  },
+  {
+    "name": "Dataminr0 easy · 1 medium · 1 hard–2",
+    "slug": "dataminr",
+    "url": "https://www.talentd.in/fleetcode/companies/dataminr"
+  },
+  {
+    "name": "Deepmind0 easy · 1 medium · 0 hard–1",
+    "slug": "deepmind",
+    "url": "https://www.talentd.in/fleetcode/companies/deepmind"
+  },
+  {
+    "name": "Delhivery1 easy · 3 medium · 1 hard–5",
+    "slug": "delhivery",
+    "url": "https://www.talentd.in/fleetcode/companies/delhivery"
+  },
+  {
+    "name": "Deliveroo2 easy · 2 medium · 2 hard16",
+    "slug": "deliveroo",
+    "url": "https://www.talentd.in/fleetcode/companies/deliveroo"
+  },
+  {
+    "name": "Dell6 easy · 4 medium · 1 hard–11",
+    "slug": "dell-2",
+    "url": "https://www.talentd.in/fleetcode/companies/dell-2"
+  },
+  {
+    "name": "Deloitte17 easy · 23 medium · 3 hard143",
+    "slug": "deloitte",
+    "url": "https://www.talentd.in/fleetcode/companies/deloitte"
+  },
+  {
+    "name": "Deltax1 easy · 1 medium · 1 hard–3",
+    "slug": "deltax",
+    "url": "https://www.talentd.in/fleetcode/companies/deltax"
+  },
+  {
+    "name": "Deutsche Bank7 easy · 7 medium · 7 hard–21",
+    "slug": "deutsche-bank",
+    "url": "https://www.talentd.in/fleetcode/companies/deutsche-bank"
+  },
+  {
+    "name": "Devrev1 easy · 0 medium · 1 hard–2",
+    "slug": "devrev",
+    "url": "https://www.talentd.in/fleetcode/companies/devrev"
+  },
+  {
+    "name": "Devsinc1 easy · 0 medium · 0 hard–1",
+    "slug": "devsinc",
+    "url": "https://www.talentd.in/fleetcode/companies/devsinc"
+  },
+  {
+    "name": "Dialpad1 easy · 1 medium · 1 hard–3",
+    "slug": "dialpad",
+    "url": "https://www.talentd.in/fleetcode/companies/dialpad"
+  },
+  {
+    "name": "Directi0 easy · 5 medium · 3 hard–8",
+    "slug": "directi",
+    "url": "https://www.talentd.in/fleetcode/companies/directi"
+  },
+  {
+    "name": "Discord0 easy · 0 medium · 1 hard–1",
+    "slug": "discord",
+    "url": "https://www.talentd.in/fleetcode/companies/discord"
+  },
+  {
+    "name": "Discovery0 easy · 1 medium · 0 hard–1",
+    "slug": "discovery",
+    "url": "https://www.talentd.in/fleetcode/companies/discovery"
+  },
+  {
+    "name": "Disney2 easy · 7 medium · 0 hard–9",
+    "slug": "disney",
+    "url": "https://www.talentd.in/fleetcode/companies/disney"
+  },
+  {
+    "name": "Dji1 easy · 0 medium · 0 hard–1",
+    "slug": "dji",
+    "url": "https://www.talentd.in/fleetcode/companies/dji"
+  },
+  {
+    "name": "DocuSign3 easy · 26 medium · 7 hard–36",
+    "slug": "docusign",
+    "url": "https://www.talentd.in/fleetcode/companies/docusign"
+  },
+  {
+    "name": "DoorDash7 easy · 44 medium · 26 hard–77",
+    "slug": "doordash",
+    "url": "https://www.talentd.in/fleetcode/companies/doordash"
+  },
+  {
+    "name": "DP World0 easy · 9 medium · 3 hard–12",
+    "slug": "dp-world",
+    "url": "https://www.talentd.in/fleetcode/companies/dp-world"
+  },
+  {
+    "name": "Drawbridge0 easy · 0 medium · 1 hard–1",
+    "slug": "drawbridge",
+    "url": "https://www.talentd.in/fleetcode/companies/drawbridge"
+  },
+  {
+    "name": "Dream111 easy · 11 medium · 1 hard–13",
+    "slug": "dream11",
+    "url": "https://www.talentd.in/fleetcode/companies/dream11"
+  },
+  {
+    "name": "Dropbox2 easy · 10 medium · 10 hard–22",
+    "slug": "dropbox",
+    "url": "https://www.talentd.in/fleetcode/companies/dropbox"
+  },
+  {
+    "name": "Druva1 easy · 0 medium · 0 hard–1",
+    "slug": "druva",
+    "url": "https://www.talentd.in/fleetcode/companies/druva"
+  },
+  {
+    "name": "Drw1 easy · 2 medium · 0 hard–3",
+    "slug": "drw",
+    "url": "https://www.talentd.in/fleetcode/companies/drw"
+  },
+  {
+    "name": "DTCC0 easy · 1 medium · 0 hard–1",
+    "slug": "dtcc",
+    "url": "https://www.talentd.in/fleetcode/companies/dtcc"
+  },
+  {
+    "name": "Dunzo0 easy · 4 medium · 3 hard–7",
+    "slug": "dunzo",
+    "url": "https://www.talentd.in/fleetcode/companies/dunzo"
+  },
+  {
+    "name": "Duolingo0 easy · 3 medium · 2 hard15",
+    "slug": "duolingo",
+    "url": "https://www.talentd.in/fleetcode/companies/duolingo"
+  },
+  {
+    "name": "Earnin1 easy · 4 medium · 0 hard–5",
+    "slug": "earnin",
+    "url": "https://www.talentd.in/fleetcode/companies/earnin"
+  },
+  {
+    "name": "eBay10 easy · 40 medium · 13 hard263",
+    "slug": "ebay",
+    "url": "https://www.talentd.in/fleetcode/companies/ebay"
+  },
+  {
+    "name": "Edelweiss0 easy · 1 medium · 0 hard–1",
+    "slug": "edelweiss",
+    "url": "https://www.talentd.in/fleetcode/companies/edelweiss"
+  },
+  {
+    "name": "Elitmus1 easy · 0 medium · 0 hard–1",
+    "slug": "elitmus",
+    "url": "https://www.talentd.in/fleetcode/companies/elitmus"
+  },
+  {
+    "name": "Envoy1 easy · 1 medium · 0 hard–2",
+    "slug": "envoy",
+    "url": "https://www.talentd.in/fleetcode/companies/envoy"
+  },
+  {
+    "name": "EPAM Systems16 easy · 27 medium · 3 hard–46",
+    "slug": "epam-systems",
+    "url": "https://www.talentd.in/fleetcode/companies/epam-systems"
+  },
+  {
+    "name": "Epic Games0 easy · 1 medium · 0 hard–1",
+    "slug": "epic-games",
+    "url": "https://www.talentd.in/fleetcode/companies/epic-games"
+  },
+  {
+    "name": "Epic Systems3 easy · 11 medium · 1 hard–15",
+    "slug": "epic-systems",
+    "url": "https://www.talentd.in/fleetcode/companies/epic-systems"
+  },
+  {
+    "name": "Epifi0 easy · 0 medium · 1 hard–1",
+    "slug": "epifi",
+    "url": "https://www.talentd.in/fleetcode/companies/epifi"
+  },
+  {
+    "name": "Equinix0 easy · 1 medium · 0 hard–1",
+    "slug": "equinix",
+    "url": "https://www.talentd.in/fleetcode/companies/equinix"
+  },
+  {
+    "name": "Ericsson1 easy · 1 medium · 1 hard–3",
+    "slug": "ericsson",
+    "url": "https://www.talentd.in/fleetcode/companies/ericsson"
+  },
+  {
+    "name": "Etsy1 easy · 0 medium · 0 hard–1",
+    "slug": "etsy",
+    "url": "https://www.talentd.in/fleetcode/companies/etsy"
+  },
+  {
+    "name": "EXL2 easy · 0 medium · 0 hard–2",
+    "slug": "exl",
+    "url": "https://www.talentd.in/fleetcode/companies/exl"
+  },
+  {
+    "name": "Expedia13 easy · 42 medium · 9 hard–64",
+    "slug": "expedia",
+    "url": "https://www.talentd.in/fleetcode/companies/expedia"
+  },
+  {
+    "name": "EY1 easy · 0 medium · 0 hard–1",
+    "slug": "ey",
+    "url": "https://www.talentd.in/fleetcode/companies/ey"
+  },
+  {
+    "name": "F5 Networks0 easy · 2 medium · 0 hard–2",
+    "slug": "f5-networks",
+    "url": "https://www.talentd.in/fleetcode/companies/f5-networks"
+  },
+  {
+    "name": "FactSet0 easy · 4 medium · 0 hard–4",
+    "slug": "factset",
+    "url": "https://www.talentd.in/fleetcode/companies/factset"
+  },
+  {
+    "name": "Faire0 easy · 2 medium · 4 hard16",
+    "slug": "faire",
+    "url": "https://www.talentd.in/fleetcode/companies/faire"
+  },
+  {
+    "name": "Fallible1 easy · 0 medium · 0 hard–1",
+    "slug": "fallible",
+    "url": "https://www.talentd.in/fleetcode/companies/fallible"
+  },
+  {
+    "name": "Fanatics1 easy · 0 medium · 1 hard–2",
+    "slug": "fanatics",
+    "url": "https://www.talentd.in/fleetcode/companies/fanatics"
+  },
+  {
+    "name": "Fast0 easy · 1 medium · 0 hard–1",
+    "slug": "fast",
+    "url": "https://www.talentd.in/fleetcode/companies/fast"
+  },
+  {
+    "name": "Fastenal0 easy · 0 medium · 1 hard–1",
+    "slug": "fastenal",
+    "url": "https://www.talentd.in/fleetcode/companies/fastenal"
+  },
+  {
+    "name": "FICO1 easy · 0 medium · 0 hard–1",
+    "slug": "fico",
+    "url": "https://www.talentd.in/fleetcode/companies/fico"
+  },
+  {
+    "name": "Fidelity5 easy · 0 medium · 0 hard–5",
+    "slug": "fidelity",
+    "url": "https://www.talentd.in/fleetcode/companies/fidelity"
+  },
+  {
+    "name": "Fidessa1 easy · 0 medium · 0 hard–1",
+    "slug": "fidessa",
+    "url": "https://www.talentd.in/fleetcode/companies/fidessa"
+  },
+  {
+    "name": "Figma0 easy · 1 medium · 0 hard–1",
+    "slug": "figma",
+    "url": "https://www.talentd.in/fleetcode/companies/figma"
+  },
+  {
+    "name": "Fiverr0 easy · 2 medium · 0 hard–2",
+    "slug": "fiverr",
+    "url": "https://www.talentd.in/fleetcode/companies/fiverr"
+  },
+  {
+    "name": "Fivetran0 easy · 2 medium · 0 hard–2",
+    "slug": "fivetran",
+    "url": "https://www.talentd.in/fleetcode/companies/fivetran"
+  },
+  {
+    "name": "Flatiron Health0 easy · 1 medium · 0 hard–1",
+    "slug": "flatiron-health",
+    "url": "https://www.talentd.in/fleetcode/companies/flatiron-health"
+  },
+  {
+    "name": "Fleetx0 easy · 1 medium · 0 hard–1",
+    "slug": "fleetx",
+    "url": "https://www.talentd.in/fleetcode/companies/fleetx"
+  },
+  {
+    "name": "Flexera1 easy · 1 medium · 0 hard–2",
+    "slug": "flexera",
+    "url": "https://www.talentd.in/fleetcode/companies/flexera"
+  },
+  {
+    "name": "Flexport0 easy · 10 medium · 0 hard–10",
+    "slug": "flexport",
+    "url": "https://www.talentd.in/fleetcode/companies/flexport"
+  },
+  {
+    "name": "Flipkart8 easy · 68 medium · 30 hard–106",
+    "slug": "flipkart",
+    "url": "https://www.talentd.in/fleetcode/companies/flipkart"
+  },
+  {
+    "name": "Fortinet2 easy · 1 medium · 1 hard–4",
+    "slug": "fortinet",
+    "url": "https://www.talentd.in/fleetcode/companies/fortinet"
+  },
+  {
+    "name": "Forusall0 easy · 0 medium · 1 hard–1",
+    "slug": "forusall",
+    "url": "https://www.talentd.in/fleetcode/companies/forusall"
+  },
+  {
+    "name": "Fourkites1 easy · 2 medium · 0 hard–3",
+    "slug": "fourkites",
+    "url": "https://www.talentd.in/fleetcode/companies/fourkites"
+  },
+  {
+    "name": "Fpt1 easy · 1 medium · 0 hard–2",
+    "slug": "fpt",
+    "url": "https://www.talentd.in/fleetcode/companies/fpt"
+  },
+  {
+    "name": "Fractal Analytics6 easy · 6 medium · 3 hard–15",
+    "slug": "fractal-analytics",
+    "url": "https://www.talentd.in/fleetcode/companies/fractal-analytics"
+  },
+  {
+    "name": "Freecharge0 easy · 3 medium · 0 hard–3",
+    "slug": "freecharge",
+    "url": "https://www.talentd.in/fleetcode/companies/freecharge"
+  },
+  {
+    "name": "Freshworks2 easy · 7 medium · 1 hard110",
+    "slug": "freshworks",
+    "url": "https://www.talentd.in/fleetcode/companies/freshworks"
+  },
+  {
+    "name": "Fynd1 easy · 0 medium · 0 hard–1",
+    "slug": "fynd",
+    "url": "https://www.talentd.in/fleetcode/companies/fynd"
+  },
+  {
+    "name": "Gainsight0 easy · 1 medium · 0 hard–1",
+    "slug": "gainsight",
+    "url": "https://www.talentd.in/fleetcode/companies/gainsight"
+  },
+  {
+    "name": "Gameskraft0 easy · 0 medium · 4 hard–4",
+    "slug": "gameskraft",
+    "url": "https://www.talentd.in/fleetcode/companies/gameskraft"
+  },
+  {
+    "name": "Garena0 easy · 1 medium · 1 hard–2",
+    "slug": "garena",
+    "url": "https://www.talentd.in/fleetcode/companies/garena"
+  },
+  {
+    "name": "Garmin5 easy · 0 medium · 0 hard–5",
+    "slug": "garmin",
+    "url": "https://www.talentd.in/fleetcode/companies/garmin"
+  },
+  {
+    "name": "Gartner0 easy · 3 medium · 0 hard–3",
+    "slug": "gartner",
+    "url": "https://www.talentd.in/fleetcode/companies/gartner"
+  },
+  {
+    "name": "Ge Digital1 easy · 2 medium · 0 hard–3",
+    "slug": "ge-digital",
+    "url": "https://www.talentd.in/fleetcode/companies/ge-digital"
+  },
+  {
+    "name": "GE Healthcare1 easy · 1 medium · 1 hard–3",
+    "slug": "ge-healthcare",
+    "url": "https://www.talentd.in/fleetcode/companies/ge-healthcare"
+  },
+  {
+    "name": "Geico1 easy · 16 medium · 1 hard–18",
+    "slug": "geico",
+    "url": "https://www.talentd.in/fleetcode/companies/geico"
+  },
+  {
+    "name": "General Electric0 easy · 0 medium · 1 hard–1",
+    "slug": "general-electric",
+    "url": "https://www.talentd.in/fleetcode/companies/general-electric"
+  },
+  {
+    "name": "General Motors1 easy · 7 medium · 4 hard–12",
+    "slug": "general-motors",
+    "url": "https://www.talentd.in/fleetcode/companies/general-motors"
+  },
+  {
+    "name": "Gep1 easy · 0 medium · 0 hard–1",
+    "slug": "gep",
+    "url": "https://www.talentd.in/fleetcode/companies/gep"
+  },
+  {
+    "name": "Gilt Groupe0 easy · 1 medium · 0 hard–1",
+    "slug": "gilt-groupe",
+    "url": "https://www.talentd.in/fleetcode/companies/gilt-groupe"
+  },
+  {
+    "name": "GitHub2 easy · 2 medium · 1 hard–5",
+    "slug": "github",
+    "url": "https://www.talentd.in/fleetcode/companies/github"
+  },
+  {
+    "name": "Glassdoor1 easy · 0 medium · 0 hard–1",
+    "slug": "glassdoor",
+    "url": "https://www.talentd.in/fleetcode/companies/glassdoor"
+  },
+  {
+    "name": "Glean0 easy · 0 medium · 1 hard–1",
+    "slug": "glean",
+    "url": "https://www.talentd.in/fleetcode/companies/glean"
+  },
+  {
+    "name": "GlobalLogic1 easy · 0 medium · 0 hard–1",
+    "slug": "globallogic",
+    "url": "https://www.talentd.in/fleetcode/companies/globallogic"
+  },
+  {
+    "name": "Glovo0 easy · 1 medium · 1 hard–2",
+    "slug": "glovo",
+    "url": "https://www.talentd.in/fleetcode/companies/glovo"
+  },
+  {
+    "name": "GoDaddy2 easy · 2 medium · 1 hard–5",
+    "slug": "godaddy",
+    "url": "https://www.talentd.in/fleetcode/companies/godaddy"
+  },
+  {
+    "name": "Gojek0 easy · 4 medium · 1 hard–5",
+    "slug": "gojek",
+    "url": "https://www.talentd.in/fleetcode/companies/gojek"
+  },
+  {
+    "name": "Goldman Sachs Interview QuestionsMath, DP, greedy algorithms",
+    "slug": "goldman-sachs",
+    "url": "https://www.talentd.in/fleetcode/companies/goldman-sachs"
+  },
+  {
+    "name": "Google Interview QuestionsGraph algorithms, DP, system design",
+    "slug": "google",
+    "url": "https://www.talentd.in/fleetcode/companies/google"
+  },
+  {
+    "name": "Gopuff0 easy · 2 medium · 0 hard–2",
+    "slug": "gopuff",
+    "url": "https://www.talentd.in/fleetcode/companies/gopuff"
+  },
+  {
+    "name": "Goto0 easy · 2 medium · 0 hard–2",
+    "slug": "goto",
+    "url": "https://www.talentd.in/fleetcode/companies/goto"
+  },
+  {
+    "name": "Grab3 easy · 12 medium · 0 hard–15",
+    "slug": "grab",
+    "url": "https://www.talentd.in/fleetcode/companies/grab"
+  },
+  {
+    "name": "Grammarly7 easy · 19 medium · 4 hard530",
+    "slug": "grammarly",
+    "url": "https://www.talentd.in/fleetcode/companies/grammarly"
+  },
+  {
+    "name": "Graviton0 easy · 5 medium · 2 hard–7",
+    "slug": "graviton",
+    "url": "https://www.talentd.in/fleetcode/companies/graviton"
+  },
+  {
+    "name": "Groupon0 easy · 2 medium · 0 hard–2",
+    "slug": "groupon",
+    "url": "https://www.talentd.in/fleetcode/companies/groupon"
+  },
+  {
+    "name": "Groww1 easy · 5 medium · 1 hard17",
+    "slug": "groww",
+    "url": "https://www.talentd.in/fleetcode/companies/groww"
+  },
+  {
+    "name": "Grubhub0 easy · 2 medium · 0 hard–2",
+    "slug": "grubhub",
+    "url": "https://www.talentd.in/fleetcode/companies/grubhub"
+  },
+  {
+    "name": "Gsa Capital0 easy · 2 medium · 0 hard–2",
+    "slug": "gsa-capital",
+    "url": "https://www.talentd.in/fleetcode/companies/gsa-capital"
+  },
+  {
+    "name": "Gsn Games2 easy · 2 medium · 1 hard–5",
+    "slug": "gsn-games",
+    "url": "https://www.talentd.in/fleetcode/companies/gsn-games"
+  },
+  {
+    "name": "Guidewire0 easy · 5 medium · 0 hard–5",
+    "slug": "guidewire",
+    "url": "https://www.talentd.in/fleetcode/companies/guidewire"
+  },
+  {
+    "name": "Gusto1 easy · 3 medium · 1 hard–5",
+    "slug": "gusto",
+    "url": "https://www.talentd.in/fleetcode/companies/gusto"
+  },
+  {
+    "name": "Harness0 easy · 2 medium · 3 hard–5",
+    "slug": "harness",
+    "url": "https://www.talentd.in/fleetcode/companies/harness"
+  },
+  {
+    "name": "Hashedin4 easy · 18 medium · 8 hard–30",
+    "slug": "hashedin",
+    "url": "https://www.talentd.in/fleetcode/companies/hashedin"
+  },
+  {
+    "name": "Hbo0 easy · 1 medium · 0 hard–1",
+    "slug": "hbo",
+    "url": "https://www.talentd.in/fleetcode/companies/hbo"
+  },
+  {
+    "name": "HCLTech8 easy · 7 medium · 1 hard–16",
+    "slug": "hcltech",
+    "url": "https://www.talentd.in/fleetcode/companies/hcltech"
+  },
+  {
+    "name": "Helix1 easy · 0 medium · 0 hard–1",
+    "slug": "helix",
+    "url": "https://www.talentd.in/fleetcode/companies/helix"
+  },
+  {
+    "name": "Hexaware0 easy · 1 medium · 0 hard–1",
+    "slug": "hexaware",
+    "url": "https://www.talentd.in/fleetcode/companies/hexaware"
+  },
+  {
+    "name": "Highspot0 easy · 1 medium · 0 hard–1",
+    "slug": "highspot",
+    "url": "https://www.talentd.in/fleetcode/companies/highspot"
+  },
+  {
+    "name": "Hilabs1 easy · 0 medium · 2 hard–3",
+    "slug": "hilabs",
+    "url": "https://www.talentd.in/fleetcode/companies/hilabs"
+  },
+  {
+    "name": "Hive0 easy · 3 medium · 3 hard–6",
+    "slug": "hive",
+    "url": "https://www.talentd.in/fleetcode/companies/hive"
+  },
+  {
+    "name": "Honey0 easy · 1 medium · 0 hard–1",
+    "slug": "honey",
+    "url": "https://www.talentd.in/fleetcode/companies/honey"
+  },
+  {
+    "name": "Honeywell2 easy · 2 medium · 0 hard–4",
+    "slug": "honeywell",
+    "url": "https://www.talentd.in/fleetcode/companies/honeywell"
+  },
+  {
+    "name": "Hopper0 easy · 0 medium · 1 hard–1",
+    "slug": "hopper",
+    "url": "https://www.talentd.in/fleetcode/companies/hopper"
+  },
+  {
+    "name": "Hotstar0 easy · 1 medium · 1 hard–2",
+    "slug": "hotstar",
+    "url": "https://www.talentd.in/fleetcode/companies/hotstar"
+  },
+  {
+    "name": "Houzz0 easy · 0 medium · 2 hard–2",
+    "slug": "houzz",
+    "url": "https://www.talentd.in/fleetcode/companies/houzz"
+  },
+  {
+    "name": "HP3 easy · 1 medium · 0 hard–4",
+    "slug": "hp",
+    "url": "https://www.talentd.in/fleetcode/companies/hp"
+  },
+  {
+    "name": "Hpe2 easy · 2 medium · 0 hard–4",
+    "slug": "hpe",
+    "url": "https://www.talentd.in/fleetcode/companies/hpe"
+  },
+  {
+    "name": "Hrt5 easy · 1 medium · 3 hard–9",
+    "slug": "hrt",
+    "url": "https://www.talentd.in/fleetcode/companies/hrt"
+  },
+  {
+    "name": "HSBC4 easy · 2 medium · 0 hard–6",
+    "slug": "hsbc",
+    "url": "https://www.talentd.in/fleetcode/companies/hsbc"
+  },
+  {
+    "name": "Htc4 easy · 1 medium · 0 hard–5",
+    "slug": "htc",
+    "url": "https://www.talentd.in/fleetcode/companies/htc"
+  },
+  {
+    "name": "Huawei5 easy · 9 medium · 3 hard–17",
+    "slug": "huawei",
+    "url": "https://www.talentd.in/fleetcode/companies/huawei"
+  },
+  {
+    "name": "HubSpot3 easy · 7 medium · 2 hard–12",
+    "slug": "hubspot",
+    "url": "https://www.talentd.in/fleetcode/companies/hubspot"
+  },
+  {
+    "name": "Hulu0 easy · 2 medium · 3 hard–5",
+    "slug": "hulu",
+    "url": "https://www.talentd.in/fleetcode/companies/hulu"
+  },
+  {
+    "name": "IBM55 easy · 105 medium · 18 hard–178",
+    "slug": "ibm",
+    "url": "https://www.talentd.in/fleetcode/companies/ibm"
+  },
+  {
+    "name": "Iit Bombay0 easy · 1 medium · 0 hard–1",
+    "slug": "iit-bombay",
+    "url": "https://www.talentd.in/fleetcode/companies/iit-bombay"
+  },
+  {
+    "name": "IMC0 easy · 2 medium · 4 hard–6",
+    "slug": "imc",
+    "url": "https://www.talentd.in/fleetcode/companies/imc"
+  },
+  {
+    "name": "Impact Analytics1 easy · 0 medium · 0 hard–1",
+    "slug": "impact-analytics",
+    "url": "https://www.talentd.in/fleetcode/companies/impact-analytics"
+  },
+  {
+    "name": "Impetus1 easy · 0 medium · 0 hard–1",
+    "slug": "impetus",
+    "url": "https://www.talentd.in/fleetcode/companies/impetus"
+  },
+  {
+    "name": "Increff0 easy · 1 medium · 0 hard–1",
+    "slug": "increff",
+    "url": "https://www.talentd.in/fleetcode/companies/increff"
+  },
+  {
+    "name": "Indeed3 easy · 3 medium · 1 hard–7",
+    "slug": "indeed",
+    "url": "https://www.talentd.in/fleetcode/companies/indeed"
+  },
+  {
+    "name": "Info Edge1 easy · 6 medium · 1 hard–8",
+    "slug": "info-edge",
+    "url": "https://www.talentd.in/fleetcode/companies/info-edge"
+  },
+  {
+    "name": "Informatica0 easy · 2 medium · 0 hard–2",
+    "slug": "informatica",
+    "url": "https://www.talentd.in/fleetcode/companies/informatica"
+  },
+  {
+    "name": "Infosys185 questions · 3 recent",
+    "slug": "infosys",
+    "url": "https://www.talentd.in/fleetcode/companies/infosys"
+  },
+  {
+    "name": "Inmobi0 easy · 4 medium · 7 hard111",
+    "slug": "inmobi",
+    "url": "https://www.talentd.in/fleetcode/companies/inmobi"
+  },
+  {
+    "name": "Innovaccer3 easy · 0 medium · 1 hard–4",
+    "slug": "innovaccer",
+    "url": "https://www.talentd.in/fleetcode/companies/innovaccer"
+  },
+  {
+    "name": "Instabase0 easy · 2 medium · 1 hard–3",
+    "slug": "instabase",
+    "url": "https://www.talentd.in/fleetcode/companies/instabase"
+  },
+  {
+    "name": "Instacart2 easy · 6 medium · 1 hard–9",
+    "slug": "instacart",
+    "url": "https://www.talentd.in/fleetcode/companies/instacart"
+  },
+  {
+    "name": "Intel7 easy · 13 medium · 1 hard–21",
+    "slug": "intel",
+    "url": "https://www.talentd.in/fleetcode/companies/intel"
+  },
+  {
+    "name": "Interactive Brokers1 easy · 0 medium · 0 hard–1",
+    "slug": "interactive-brokers",
+    "url": "https://www.talentd.in/fleetcode/companies/interactive-brokers"
+  },
+  {
+    "name": "Intercom0 easy · 1 medium · 0 hard–1",
+    "slug": "intercom",
+    "url": "https://www.talentd.in/fleetcode/companies/intercom"
+  },
+  {
+    "name": "Intuit9 easy · 37 medium · 18 hard–64",
+    "slug": "intuit",
+    "url": "https://www.talentd.in/fleetcode/companies/intuit"
+  },
+  {
+    "name": "Ivp0 easy · 1 medium · 1 hard–2",
+    "slug": "ivp",
+    "url": "https://www.talentd.in/fleetcode/companies/ivp"
+  },
+  {
+    "name": "Ixl3 easy · 11 medium · 3 hard–17",
+    "slug": "ixl",
+    "url": "https://www.talentd.in/fleetcode/companies/ixl"
+  },
+  {
+    "name": "Jane Street7 easy · 5 medium · 3 hard–15",
+    "slug": "jane-street",
+    "url": "https://www.talentd.in/fleetcode/companies/jane-street"
+  },
+  {
+    "name": "JD.com0 easy · 0 medium · 1 hard–1",
+    "slug": "jdcom",
+    "url": "https://www.talentd.in/fleetcode/companies/jdcom"
+  },
+  {
+    "name": "Jeavio1 easy · 0 medium · 0 hard–1",
+    "slug": "jeavio",
+    "url": "https://www.talentd.in/fleetcode/companies/jeavio"
+  },
+  {
+    "name": "Jingchi0 easy · 0 medium · 1 hard–1",
+    "slug": "jingchi",
+    "url": "https://www.talentd.in/fleetcode/companies/jingchi"
+  },
+  {
+    "name": "Jio2 easy · 3 medium · 2 hard–7",
+    "slug": "jio",
+    "url": "https://www.talentd.in/fleetcode/companies/jio"
+  },
+  {
+    "name": "Josh Technology8 easy · 26 medium · 3 hard137",
+    "slug": "josh-technology",
+    "url": "https://www.talentd.in/fleetcode/companies/josh-technology"
+  },
+  {
+    "name": "JPMorgan Chase24 easy · 43 medium · 7 hard174",
+    "slug": "jpmorgan-chase",
+    "url": "https://www.talentd.in/fleetcode/companies/jpmorgan-chase"
+  },
+  {
+    "name": "Jtg1 easy · 1 medium · 0 hard–2",
+    "slug": "jtg",
+    "url": "https://www.talentd.in/fleetcode/companies/jtg"
+  },
+  {
+    "name": "Jump Trading2 easy · 1 medium · 1 hard–4",
+    "slug": "jump-trading",
+    "url": "https://www.talentd.in/fleetcode/companies/jump-trading"
+  },
+  {
+    "name": "Juspay2 easy · 11 medium · 5 hard118",
+    "slug": "juspay",
+    "url": "https://www.talentd.in/fleetcode/companies/juspay"
+  },
+  {
+    "name": "Kakao0 easy · 1 medium · 1 hard–2",
+    "slug": "kakao",
+    "url": "https://www.talentd.in/fleetcode/companies/kakao"
+  },
+  {
+    "name": "Karat3 easy · 7 medium · 1 hard–11",
+    "slug": "karat",
+    "url": "https://www.talentd.in/fleetcode/companies/karat"
+  },
+  {
+    "name": "Kickdrum0 easy · 3 medium · 0 hard–3",
+    "slug": "kickdrum",
+    "url": "https://www.talentd.in/fleetcode/companies/kickdrum"
+  },
+  {
+    "name": "Kla Tencor0 easy · 1 medium · 3 hard–4",
+    "slug": "kla-tencor",
+    "url": "https://www.talentd.in/fleetcode/companies/kla-tencor"
+  },
+  {
+    "name": "KLA1 easy · 3 medium · 4 hard–8",
+    "slug": "kla",
+    "url": "https://www.talentd.in/fleetcode/companies/kla"
+  },
+  {
+    "name": "Kotak Mahindra Bank1 easy · 0 medium · 1 hard–2",
+    "slug": "kotak-mahindra-bank",
+    "url": "https://www.talentd.in/fleetcode/companies/kotak-mahindra-bank"
+  },
+  {
+    "name": "KPMG1 easy · 2 medium · 0 hard–3",
+    "slug": "kpmg",
+    "url": "https://www.talentd.in/fleetcode/companies/kpmg"
+  },
+  {
+    "name": "Larsen Toubro2 easy · 0 medium · 0 hard–2",
+    "slug": "larsen-toubro",
+    "url": "https://www.talentd.in/fleetcode/companies/larsen-toubro"
+  },
+  {
+    "name": "Leap Motion0 easy · 1 medium · 0 hard–1",
+    "slug": "leap-motion",
+    "url": "https://www.talentd.in/fleetcode/companies/leap-motion"
+  },
+  {
+    "name": "Lendingkart0 easy · 1 medium · 0 hard–1",
+    "slug": "lendingkart",
+    "url": "https://www.talentd.in/fleetcode/companies/lendingkart"
+  },
+  {
+    "name": "Lg Electronics3 easy · 3 medium · 0 hard–6",
+    "slug": "lg-electronics",
+    "url": "https://www.talentd.in/fleetcode/companies/lg-electronics"
+  },
+  {
+    "name": "Liberty Mutual0 easy · 0 medium · 1 hard–1",
+    "slug": "liberty-mutual",
+    "url": "https://www.talentd.in/fleetcode/companies/liberty-mutual"
+  },
+  {
+    "name": "Liftoff0 easy · 3 medium · 1 hard–4",
+    "slug": "liftoff",
+    "url": "https://www.talentd.in/fleetcode/companies/liftoff"
+  },
+  {
+    "name": "Lime1 easy · 5 medium · 1 hard–7",
+    "slug": "lime",
+    "url": "https://www.talentd.in/fleetcode/companies/lime"
+  },
+  {
+    "name": "Line0 easy · 1 medium · 2 hard–3",
+    "slug": "line",
+    "url": "https://www.talentd.in/fleetcode/companies/line"
+  },
+  {
+    "name": "LinkedIn27 easy · 114 medium · 35 hard–176",
+    "slug": "linkedin",
+    "url": "https://www.talentd.in/fleetcode/companies/linkedin"
+  },
+  {
+    "name": "Liveramp2 easy · 4 medium · 0 hard–6",
+    "slug": "liveramp",
+    "url": "https://www.talentd.in/fleetcode/companies/liveramp"
+  },
+  {
+    "name": "Livspace1 easy · 1 medium · 0 hard–2",
+    "slug": "livspace",
+    "url": "https://www.talentd.in/fleetcode/companies/livspace"
+  },
+  {
+    "name": "Lowe's3 easy · 0 medium · 2 hard–5",
+    "slug": "lowes",
+    "url": "https://www.talentd.in/fleetcode/companies/lowes"
+  },
+  {
+    "name": "LTIMindtree4 easy · 4 medium · 1 hard–9",
+    "slug": "ltimindtree",
+    "url": "https://www.talentd.in/fleetcode/companies/ltimindtree"
+  },
+  {
+    "name": "Lucid2 easy · 3 medium · 1 hard–6",
+    "slug": "lucid",
+    "url": "https://www.talentd.in/fleetcode/companies/lucid"
+  },
+  {
+    "name": "Luxoft2 easy · 0 medium · 0 hard–2",
+    "slug": "luxoft",
+    "url": "https://www.talentd.in/fleetcode/companies/luxoft"
+  },
+  {
+    "name": "Lyft0 easy · 18 medium · 6 hard224",
+    "slug": "lyft",
+    "url": "https://www.talentd.in/fleetcode/companies/lyft"
+  },
+  {
+    "name": "Machine Zone0 easy · 0 medium · 2 hard–2",
+    "slug": "machine-zone",
+    "url": "https://www.talentd.in/fleetcode/companies/machine-zone"
+  },
+  {
+    "name": "Machinezone0 easy · 0 medium · 1 hard–1",
+    "slug": "machinezone",
+    "url": "https://www.talentd.in/fleetcode/companies/machinezone"
+  },
+  {
+    "name": "Maersk1 easy · 0 medium · 0 hard–1",
+    "slug": "maersk",
+    "url": "https://www.talentd.in/fleetcode/companies/maersk"
+  },
+  {
+    "name": "MakeMyTrip0 easy · 15 medium · 5 hard–20",
+    "slug": "makemytrip",
+    "url": "https://www.talentd.in/fleetcode/companies/makemytrip"
+  },
+  {
+    "name": "Mapbox1 easy · 0 medium · 0 hard–1",
+    "slug": "mapbox",
+    "url": "https://www.talentd.in/fleetcode/companies/mapbox"
+  },
+  {
+    "name": "Maq Software1 easy · 4 medium · 1 hard–6",
+    "slug": "maq-software",
+    "url": "https://www.talentd.in/fleetcode/companies/maq-software"
+  },
+  {
+    "name": "Marqeta1 easy · 1 medium · 0 hard–2",
+    "slug": "marqeta",
+    "url": "https://www.talentd.in/fleetcode/companies/marqeta"
+  },
+  {
+    "name": "Mastercard5 easy · 6 medium · 1 hard–12",
+    "slug": "mastercard",
+    "url": "https://www.talentd.in/fleetcode/companies/mastercard"
+  },
+  {
+    "name": "Mathworks6 easy · 15 medium · 10 hard–31",
+    "slug": "mathworks",
+    "url": "https://www.talentd.in/fleetcode/companies/mathworks"
+  },
+  {
+    "name": "McAfee1 easy · 0 medium · 0 hard–1",
+    "slug": "mcafee",
+    "url": "https://www.talentd.in/fleetcode/companies/mcafee"
+  },
+  {
+    "name": "McDonald's1 easy · 1 medium · 0 hard–2",
+    "slug": "mcdonalds",
+    "url": "https://www.talentd.in/fleetcode/companies/mcdonalds"
+  },
+  {
+    "name": "McKinsey0 easy · 2 medium · 0 hard–2",
+    "slug": "mckinsey",
+    "url": "https://www.talentd.in/fleetcode/companies/mckinsey"
+  },
+  {
+    "name": "Medianet3 easy · 14 medium · 14 hard–31",
+    "slug": "medianet",
+    "url": "https://www.talentd.in/fleetcode/companies/medianet"
+  },
+  {
+    "name": "Meesho4 easy · 23 medium · 18 hard245",
+    "slug": "meesho",
+    "url": "https://www.talentd.in/fleetcode/companies/meesho"
+  },
+  {
+    "name": "Meituan1 easy · 0 medium · 0 hard–1",
+    "slug": "meituan",
+    "url": "https://www.talentd.in/fleetcode/companies/meituan"
+  },
+  {
+    "name": "Mercari3 easy · 3 medium · 0 hard–6",
+    "slug": "mercari",
+    "url": "https://www.talentd.in/fleetcode/companies/mercari"
+  },
+  {
+    "name": "Meta Interview QuestionsGraphs, strings, optimization",
+    "slug": "meta",
+    "url": "https://www.talentd.in/fleetcode/companies/meta"
+  },
+  {
+    "name": "Micro11 easy · 4 medium · 0 hard–5",
+    "slug": "micro1",
+    "url": "https://www.talentd.in/fleetcode/companies/micro1"
+  },
+  {
+    "name": "Microsoft Interview QuestionsData structures, algorithms, problem-solving",
+    "slug": "microsoft",
+    "url": "https://www.talentd.in/fleetcode/companies/microsoft"
+  },
+  {
+    "name": "MicroStrategy2 easy · 7 medium · 0 hard–9",
+    "slug": "microstrategy",
+    "url": "https://www.talentd.in/fleetcode/companies/microstrategy"
+  },
+  {
+    "name": "Millennium2 easy · 7 medium · 3 hard–12",
+    "slug": "millennium",
+    "url": "https://www.talentd.in/fleetcode/companies/millennium"
+  },
+  {
+    "name": "Mindtickle0 easy · 0 medium · 3 hard–3",
+    "slug": "mindtickle",
+    "url": "https://www.talentd.in/fleetcode/companies/mindtickle"
+  },
+  {
+    "name": "Mindtree4 easy · 1 medium · 0 hard–5",
+    "slug": "mindtree",
+    "url": "https://www.talentd.in/fleetcode/companies/mindtree"
+  },
+  {
+    "name": "Mishipay0 easy · 0 medium · 1 hard–1",
+    "slug": "mishipay",
+    "url": "https://www.talentd.in/fleetcode/companies/mishipay"
+  },
+  {
+    "name": "Mitsogo4 easy · 10 medium · 2 hard–16",
+    "slug": "mitsogo",
+    "url": "https://www.talentd.in/fleetcode/companies/mitsogo"
+  },
+  {
+    "name": "Mixpanel0 easy · 2 medium · 0 hard–2",
+    "slug": "mixpanel",
+    "url": "https://www.talentd.in/fleetcode/companies/mixpanel"
+  },
+  {
+    "name": "Mobileye0 easy · 1 medium · 0 hard–1",
+    "slug": "mobileye",
+    "url": "https://www.talentd.in/fleetcode/companies/mobileye"
+  },
+  {
+    "name": "Mobisy0 easy · 0 medium · 1 hard–1",
+    "slug": "mobisy",
+    "url": "https://www.talentd.in/fleetcode/companies/mobisy"
+  },
+  {
+    "name": "MoEngage1 easy · 0 medium · 0 hard–1",
+    "slug": "moengage",
+    "url": "https://www.talentd.in/fleetcode/companies/moengage"
+  },
+  {
+    "name": "Moloco0 easy · 11 medium · 5 hard–16",
+    "slug": "moloco",
+    "url": "https://www.talentd.in/fleetcode/companies/moloco"
+  },
+  {
+    "name": "Moneylion0 easy · 1 medium · 0 hard–1",
+    "slug": "moneylion",
+    "url": "https://www.talentd.in/fleetcode/companies/moneylion"
+  },
+  {
+    "name": "MongoDB3 easy · 16 medium · 6 hard–25",
+    "slug": "mongodb",
+    "url": "https://www.talentd.in/fleetcode/companies/mongodb"
+  },
+  {
+    "name": "Morgan Stanley13 easy · 40 medium · 9 hard–62",
+    "slug": "morgan-stanley",
+    "url": "https://www.talentd.in/fleetcode/companies/morgan-stanley"
+  },
+  {
+    "name": "Motive2 easy · 7 medium · 1 hard–10",
+    "slug": "motive",
+    "url": "https://www.talentd.in/fleetcode/companies/motive"
+  },
+  {
+    "name": "Moveworks0 easy · 3 medium · 3 hard26",
+    "slug": "moveworks",
+    "url": "https://www.talentd.in/fleetcode/companies/moveworks"
+  },
+  {
+    "name": "Mphasis0 easy · 1 medium · 0 hard–1",
+    "slug": "mphasis",
+    "url": "https://www.talentd.in/fleetcode/companies/mphasis"
+  },
+  {
+    "name": "MSCI0 easy · 1 medium · 0 hard–1",
+    "slug": "msci",
+    "url": "https://www.talentd.in/fleetcode/companies/msci"
+  },
+  {
+    "name": "Murex1 easy · 0 medium · 0 hard–1",
+    "slug": "murex",
+    "url": "https://www.talentd.in/fleetcode/companies/murex"
+  },
+  {
+    "name": "myKaarma0 easy · 0 medium · 1 hard–1",
+    "slug": "mykaarma",
+    "url": "https://www.talentd.in/fleetcode/companies/mykaarma"
+  },
+  {
+    "name": "Myntra4 easy · 14 medium · 2 hard–20",
+    "slug": "myntra",
+    "url": "https://www.talentd.in/fleetcode/companies/myntra"
+  },
+  {
+    "name": "Nagarro4 easy · 4 medium · 0 hard–8",
+    "slug": "nagarro",
+    "url": "https://www.talentd.in/fleetcode/companies/nagarro"
+  },
+  {
+    "name": "Nasdaq1 easy · 0 medium · 0 hard–1",
+    "slug": "nasdaq",
+    "url": "https://www.talentd.in/fleetcode/companies/nasdaq"
+  },
+  {
+    "name": "National Instruments0 easy · 1 medium · 0 hard–1",
+    "slug": "national-instruments",
+    "url": "https://www.talentd.in/fleetcode/companies/national-instruments"
+  },
+  {
+    "name": "National Payments Coorperation India1 easy · 1 medium · 0 hard–2",
+    "slug": "national-payments-coorperation-india",
+    "url": "https://www.talentd.in/fleetcode/companies/national-payments-coorperation-india"
+  },
+  {
+    "name": "NatWest2 easy · 1 medium · 0 hard–3",
+    "slug": "natwest",
+    "url": "https://www.talentd.in/fleetcode/companies/natwest"
+  },
+  {
+    "name": "Navan0 easy · 2 medium · 1 hard–3",
+    "slug": "navan",
+    "url": "https://www.talentd.in/fleetcode/companies/navan"
+  },
+  {
+    "name": "Naver1 easy · 0 medium · 0 hard–1",
+    "slug": "naver",
+    "url": "https://www.talentd.in/fleetcode/companies/naver"
+  },
+  {
+    "name": "Navi0 easy · 2 medium · 1 hard–3",
+    "slug": "navi",
+    "url": "https://www.talentd.in/fleetcode/companies/navi"
+  },
+  {
+    "name": "NCR0 easy · 2 medium · 1 hard–3",
+    "slug": "ncr",
+    "url": "https://www.talentd.in/fleetcode/companies/ncr"
+  },
+  {
+    "name": "Nebius0 easy · 1 medium · 0 hard–1",
+    "slug": "nebius",
+    "url": "https://www.talentd.in/fleetcode/companies/nebius"
+  },
+  {
+    "name": "Nerdwallet1 easy · 0 medium · 0 hard–1",
+    "slug": "nerdwallet",
+    "url": "https://www.talentd.in/fleetcode/companies/nerdwallet"
+  },
+  {
+    "name": "NetApp2 easy · 8 medium · 0 hard–10",
+    "slug": "netapp",
+    "url": "https://www.talentd.in/fleetcode/companies/netapp"
+  },
+  {
+    "name": "Netcracker Technology0 easy · 1 medium · 0 hard–1",
+    "slug": "netcracker-technology",
+    "url": "https://www.talentd.in/fleetcode/companies/netcracker-technology"
+  },
+  {
+    "name": "NetEase0 easy · 1 medium · 1 hard–2",
+    "slug": "netease",
+    "url": "https://www.talentd.in/fleetcode/companies/netease"
+  },
+  {
+    "name": "Netflix5 easy · 19 medium · 5 hard129",
+    "slug": "netflix",
+    "url": "https://www.talentd.in/fleetcode/companies/netflix"
+  },
+  {
+    "name": "Netskope0 easy · 3 medium · 5 hard–8",
+    "slug": "netskope",
+    "url": "https://www.talentd.in/fleetcode/companies/netskope"
+  },
+  {
+    "name": "Netsuite2 easy · 0 medium · 0 hard–2",
+    "slug": "netsuite",
+    "url": "https://www.talentd.in/fleetcode/companies/netsuite"
+  },
+  {
+    "name": "Newsbreak0 easy · 2 medium · 0 hard–2",
+    "slug": "newsbreak",
+    "url": "https://www.talentd.in/fleetcode/companies/newsbreak"
+  },
+  {
+    "name": "Nextdoor0 easy · 2 medium · 1 hard–3",
+    "slug": "nextdoor",
+    "url": "https://www.talentd.in/fleetcode/companies/nextdoor"
+  },
+  {
+    "name": "Nextjump1 easy · 0 medium · 0 hard–1",
+    "slug": "nextjump",
+    "url": "https://www.talentd.in/fleetcode/companies/nextjump"
+  },
+  {
+    "name": "Niantic0 easy · 3 medium · 0 hard–3",
+    "slug": "niantic",
+    "url": "https://www.talentd.in/fleetcode/companies/niantic"
+  },
+  {
+    "name": "Nielsen1 easy · 4 medium · 1 hard–6",
+    "slug": "nielsen",
+    "url": "https://www.talentd.in/fleetcode/companies/nielsen"
+  },
+  {
+    "name": "Nike3 easy · 9 medium · 2 hard–14",
+    "slug": "nike",
+    "url": "https://www.talentd.in/fleetcode/companies/nike"
+  },
+  {
+    "name": "Nokia5 easy · 3 medium · 2 hard–10",
+    "slug": "nokia",
+    "url": "https://www.talentd.in/fleetcode/companies/nokia"
+  },
+  {
+    "name": "Noon1 easy · 0 medium · 0 hard–1",
+    "slug": "noon",
+    "url": "https://www.talentd.in/fleetcode/companies/noon"
+  },
+  {
+    "name": "Nordstrom0 easy · 4 medium · 0 hard–4",
+    "slug": "nordstrom",
+    "url": "https://www.talentd.in/fleetcode/companies/nordstrom"
+  },
+  {
+    "name": "Notion0 easy · 0 medium · 1 hard–1",
+    "slug": "notion",
+    "url": "https://www.talentd.in/fleetcode/companies/notion"
+  },
+  {
+    "name": "Nuro0 easy · 11 medium · 3 hard–14",
+    "slug": "nuro",
+    "url": "https://www.talentd.in/fleetcode/companies/nuro"
+  },
+  {
+    "name": "Nutanix3 easy · 44 medium · 17 hard–64",
+    "slug": "nutanix",
+    "url": "https://www.talentd.in/fleetcode/companies/nutanix"
+  },
+  {
+    "name": "NVIDIA32 easy · 91 medium · 16 hard1139",
+    "slug": "nvidia",
+    "url": "https://www.talentd.in/fleetcode/companies/nvidia"
+  },
+  {
+    "name": "Nykaa0 easy · 3 medium · 1 hard–4",
+    "slug": "nykaa",
+    "url": "https://www.talentd.in/fleetcode/companies/nykaa"
+  },
+  {
+    "name": "Observeai0 easy · 1 medium · 1 hard–2",
+    "slug": "observeai",
+    "url": "https://www.talentd.in/fleetcode/companies/observeai"
+  },
+  {
+    "name": "Odoo2 easy · 1 medium · 0 hard–3",
+    "slug": "odoo",
+    "url": "https://www.talentd.in/fleetcode/companies/odoo"
+  },
+  {
+    "name": "Okta0 easy · 14 medium · 4 hard–18",
+    "slug": "okta",
+    "url": "https://www.talentd.in/fleetcode/companies/okta"
+  },
+  {
+    "name": "Okx0 easy · 1 medium · 0 hard–1",
+    "slug": "okx",
+    "url": "https://www.talentd.in/fleetcode/companies/okx"
+  },
+  {
+    "name": "Ola5 easy · 14 medium · 5 hard2424",
+    "slug": "ola",
+    "url": "https://www.talentd.in/fleetcode/companies/ola"
+  },
+  {
+    "name": "Olx0 easy · 1 medium · 1 hard–2",
+    "slug": "olx",
+    "url": "https://www.talentd.in/fleetcode/companies/olx"
+  },
+  {
+    "name": "Openai1 easy · 14 medium · 2 hard–17",
+    "slug": "openai",
+    "url": "https://www.talentd.in/fleetcode/companies/openai"
+  },
+  {
+    "name": "Opentext5 easy · 3 medium · 0 hard18",
+    "slug": "opentext",
+    "url": "https://www.talentd.in/fleetcode/companies/opentext"
+  },
+  {
+    "name": "Oppo1 easy · 1 medium · 0 hard–2",
+    "slug": "oppo",
+    "url": "https://www.talentd.in/fleetcode/companies/oppo"
+  },
+  {
+    "name": "Optiver2 easy · 4 medium · 1 hard–7",
+    "slug": "optiver",
+    "url": "https://www.talentd.in/fleetcode/companies/optiver"
+  },
+  {
+    "name": "Optum2 easy · 4 medium · 1 hard–7",
+    "slug": "optum",
+    "url": "https://www.talentd.in/fleetcode/companies/optum"
+  },
+  {
+    "name": "Oracle61 easy · 193 medium · 59 hard–313",
+    "slug": "oracle",
+    "url": "https://www.talentd.in/fleetcode/companies/oracle"
+  },
+  {
+    "name": "Oscar Health0 easy · 2 medium · 1 hard–3",
+    "slug": "oscar-health",
+    "url": "https://www.talentd.in/fleetcode/companies/oscar-health"
+  },
+  {
+    "name": "Otterai0 easy · 2 medium · 2 hard–4",
+    "slug": "otterai",
+    "url": "https://www.talentd.in/fleetcode/companies/otterai"
+  },
+  {
+    "name": "Oyo1 easy · 6 medium · 1 hard–8",
+    "slug": "oyo",
+    "url": "https://www.talentd.in/fleetcode/companies/oyo"
+  },
+  {
+    "name": "Ozon6 easy · 4 medium · 1 hard–11",
+    "slug": "ozon",
+    "url": "https://www.talentd.in/fleetcode/companies/ozon"
+  },
+  {
+    "name": "Palantir5 easy · 19 medium · 5 hard–29",
+    "slug": "palantir",
+    "url": "https://www.talentd.in/fleetcode/companies/palantir"
+  },
+  {
+    "name": "Palo Alto Networks12 easy · 29 medium · 6 hard147",
+    "slug": "palo-alto-networks",
+    "url": "https://www.talentd.in/fleetcode/companies/palo-alto-networks"
+  },
+  {
+    "name": "Park0 easy · 3 medium · 0 hard–3",
+    "slug": "park",
+    "url": "https://www.talentd.in/fleetcode/companies/park"
+  },
+  {
+    "name": "Patreon2 easy · 2 medium · 0 hard–4",
+    "slug": "patreon",
+    "url": "https://www.talentd.in/fleetcode/companies/patreon"
+  },
+  {
+    "name": "Paycom2 easy · 0 medium · 0 hard–2",
+    "slug": "paycom",
+    "url": "https://www.talentd.in/fleetcode/companies/paycom"
+  },
+  {
+    "name": "PayPal18 easy · 68 medium · 17 hard–103",
+    "slug": "paypal",
+    "url": "https://www.talentd.in/fleetcode/companies/paypal"
+  },
+  {
+    "name": "Paypay2 easy · 3 medium · 1 hard–6",
+    "slug": "paypay",
+    "url": "https://www.talentd.in/fleetcode/companies/paypay"
+  },
+  {
+    "name": "Paytm7 easy · 19 medium · 3 hard–29",
+    "slug": "paytm",
+    "url": "https://www.talentd.in/fleetcode/companies/paytm"
+  },
+  {
+    "name": "PayU1 easy · 1 medium · 0 hard–2",
+    "slug": "payu",
+    "url": "https://www.talentd.in/fleetcode/companies/payu"
+  },
+  {
+    "name": "Peak60 easy · 2 medium · 0 hard–2",
+    "slug": "peak6",
+    "url": "https://www.talentd.in/fleetcode/companies/peak6"
+  },
+  {
+    "name": "Pega1 easy · 0 medium · 0 hard–1",
+    "slug": "pega",
+    "url": "https://www.talentd.in/fleetcode/companies/pega"
+  },
+  {
+    "name": "Peloton0 easy · 1 medium · 1 hard–2",
+    "slug": "peloton",
+    "url": "https://www.talentd.in/fleetcode/companies/peloton"
+  },
+  {
+    "name": "Persistent Systems5 easy · 4 medium · 0 hard–9",
+    "slug": "persistent-systems",
+    "url": "https://www.talentd.in/fleetcode/companies/persistent-systems"
+  },
+  {
+    "name": "Philips0 easy · 2 medium · 1 hard–3",
+    "slug": "philips",
+    "url": "https://www.talentd.in/fleetcode/companies/philips"
+  },
+  {
+    "name": "PhonePe4 easy · 57 medium · 39 hard1100",
+    "slug": "phonepe",
+    "url": "https://www.talentd.in/fleetcode/companies/phonepe"
+  },
+  {
+    "name": "Pickrr0 easy · 0 medium · 1 hard–1",
+    "slug": "pickrr",
+    "url": "https://www.talentd.in/fleetcode/companies/pickrr"
+  },
+  {
+    "name": "Pinterest1 easy · 29 medium · 16 hard246",
+    "slug": "pinterest",
+    "url": "https://www.talentd.in/fleetcode/companies/pinterest"
+  },
+  {
+    "name": "Plaid0 easy · 1 medium · 0 hard–1",
+    "slug": "plaid",
+    "url": "https://www.talentd.in/fleetcode/companies/plaid"
+  },
+  {
+    "name": "Playsimple1 easy · 0 medium · 0 hard–1",
+    "slug": "playsimple",
+    "url": "https://www.talentd.in/fleetcode/companies/playsimple"
+  },
+  {
+    "name": "Pocket Gems1 easy · 10 medium · 4 hard–15",
+    "slug": "pocket-gems",
+    "url": "https://www.talentd.in/fleetcode/companies/pocket-gems"
+  },
+  {
+    "name": "Point723 easy · 3 medium · 0 hard–6",
+    "slug": "point72",
+    "url": "https://www.talentd.in/fleetcode/companies/point72"
+  },
+  {
+    "name": "Polar0 easy · 1 medium · 0 hard–1",
+    "slug": "polar",
+    "url": "https://www.talentd.in/fleetcode/companies/polar"
+  },
+  {
+    "name": "Ponyai0 easy · 3 medium · 1 hard–4",
+    "slug": "ponyai",
+    "url": "https://www.talentd.in/fleetcode/companies/ponyai"
+  },
+  {
+    "name": "Porter0 easy · 3 medium · 0 hard–3",
+    "slug": "porter",
+    "url": "https://www.talentd.in/fleetcode/companies/porter"
+  },
+  {
+    "name": "Poshmark0 easy · 3 medium · 1 hard–4",
+    "slug": "poshmark",
+    "url": "https://www.talentd.in/fleetcode/companies/poshmark"
+  },
+  {
+    "name": "Postman0 easy · 0 medium · 1 hard–1",
+    "slug": "postman",
+    "url": "https://www.talentd.in/fleetcode/companies/postman"
+  },
+  {
+    "name": "Postmates1 easy · 2 medium · 0 hard–3",
+    "slug": "postmates",
+    "url": "https://www.talentd.in/fleetcode/companies/postmates"
+  },
+  {
+    "name": "Poynt0 easy · 1 medium · 0 hard–1",
+    "slug": "poynt",
+    "url": "https://www.talentd.in/fleetcode/companies/poynt"
+  },
+  {
+    "name": "Publicis Sapient1 easy · 5 medium · 1 hard–7",
+    "slug": "publicis-sapient",
+    "url": "https://www.talentd.in/fleetcode/companies/publicis-sapient"
+  },
+  {
+    "name": "Pubmatic0 easy · 1 medium · 1 hard–2",
+    "slug": "pubmatic",
+    "url": "https://www.talentd.in/fleetcode/companies/pubmatic"
+  },
+  {
+    "name": "Pure Storage2 easy · 6 medium · 1 hard–9",
+    "slug": "pure-storage",
+    "url": "https://www.talentd.in/fleetcode/companies/pure-storage"
+  },
+  {
+    "name": "Purplle0 easy · 0 medium · 1 hard–1",
+    "slug": "purplle",
+    "url": "https://www.talentd.in/fleetcode/companies/purplle"
+  },
+  {
+    "name": "PwC3 easy · 0 medium · 1 hard–4",
+    "slug": "pwc",
+    "url": "https://www.talentd.in/fleetcode/companies/pwc"
+  },
+  {
+    "name": "Qualcomm28 easy · 23 medium · 9 hard–60",
+    "slug": "qualcomm",
+    "url": "https://www.talentd.in/fleetcode/companies/qualcomm"
+  },
+  {
+    "name": "Qualtrics2 easy · 2 medium · 1 hard–5",
+    "slug": "qualtrics",
+    "url": "https://www.talentd.in/fleetcode/companies/qualtrics"
+  },
+  {
+    "name": "Qualys1 easy · 0 medium · 0 hard–1",
+    "slug": "qualys",
+    "url": "https://www.talentd.in/fleetcode/companies/qualys"
+  },
+  {
+    "name": "Quantcast0 easy · 1 medium · 0 hard–1",
+    "slug": "quantcast",
+    "url": "https://www.talentd.in/fleetcode/companies/quantcast"
+  },
+  {
+    "name": "Quantiphi0 easy · 1 medium · 0 hard–1",
+    "slug": "quantiphi",
+    "url": "https://www.talentd.in/fleetcode/companies/quantiphi"
+  },
+  {
+    "name": "Quince0 easy · 5 medium · 0 hard25",
+    "slug": "quince",
+    "url": "https://www.talentd.in/fleetcode/companies/quince"
+  },
+  {
+    "name": "Quora7 easy · 9 medium · 3 hard–19",
+    "slug": "quora",
+    "url": "https://www.talentd.in/fleetcode/companies/quora"
+  },
+  {
+    "name": "Rackspace0 easy · 1 medium · 0 hard–1",
+    "slug": "rackspace",
+    "url": "https://www.talentd.in/fleetcode/companies/rackspace"
+  },
+  {
+    "name": "Radius1 easy · 0 medium · 0 hard–1",
+    "slug": "radius",
+    "url": "https://www.talentd.in/fleetcode/companies/radius"
+  },
+  {
+    "name": "Rakuten1 easy · 5 medium · 1 hard–7",
+    "slug": "rakuten",
+    "url": "https://www.talentd.in/fleetcode/companies/rakuten"
+  },
+  {
+    "name": "Rally Health1 easy · 0 medium · 0 hard–1",
+    "slug": "rally-health",
+    "url": "https://www.talentd.in/fleetcode/companies/rally-health"
+  },
+  {
+    "name": "Ramp 20 easy · 2 medium · 1 hard–3",
+    "slug": "ramp-2",
+    "url": "https://www.talentd.in/fleetcode/companies/ramp-2"
+  },
+  {
+    "name": "Razorpay2 easy · 9 medium · 1 hard–12",
+    "slug": "razorpay",
+    "url": "https://www.talentd.in/fleetcode/companies/razorpay"
+  },
+  {
+    "name": "RBC1 easy · 1 medium · 0 hard–2",
+    "slug": "rbc",
+    "url": "https://www.talentd.in/fleetcode/companies/rbc"
+  },
+  {
+    "name": "Redbus0 easy · 2 medium · 0 hard–2",
+    "slug": "redbus",
+    "url": "https://www.talentd.in/fleetcode/companies/redbus"
+  },
+  {
+    "name": "Reddit1 easy · 3 medium · 1 hard–5",
+    "slug": "reddit",
+    "url": "https://www.talentd.in/fleetcode/companies/reddit"
+  },
+  {
+    "name": "Redfin0 easy · 2 medium · 0 hard–2",
+    "slug": "redfin",
+    "url": "https://www.talentd.in/fleetcode/companies/redfin"
+  },
+  {
+    "name": "Reliance Retails1 easy · 0 medium · 0 hard–1",
+    "slug": "reliance-retails",
+    "url": "https://www.talentd.in/fleetcode/companies/reliance-retails"
+  },
+  {
+    "name": "Remitly2 easy · 3 medium · 0 hard–5",
+    "slug": "remitly",
+    "url": "https://www.talentd.in/fleetcode/companies/remitly"
+  },
+  {
+    "name": "Remotestate0 easy · 1 medium · 0 hard–1",
+    "slug": "remotestate",
+    "url": "https://www.talentd.in/fleetcode/companies/remotestate"
+  },
+  {
+    "name": "Retailmenot0 easy · 1 medium · 0 hard–1",
+    "slug": "retailmenot",
+    "url": "https://www.talentd.in/fleetcode/companies/retailmenot"
+  },
+  {
+    "name": "Revolut3 easy · 7 medium · 0 hard–10",
+    "slug": "revolut",
+    "url": "https://www.talentd.in/fleetcode/companies/revolut"
+  },
+  {
+    "name": "Riot Games1 easy · 3 medium · 1 hard–5",
+    "slug": "riot-games",
+    "url": "https://www.talentd.in/fleetcode/companies/riot-games"
+  },
+  {
+    "name": "Ripple1 easy · 6 medium · 1 hard–8",
+    "slug": "ripple",
+    "url": "https://www.talentd.in/fleetcode/companies/ripple"
+  },
+  {
+    "name": "Rippling2 easy · 13 medium · 8 hard–23",
+    "slug": "rippling",
+    "url": "https://www.talentd.in/fleetcode/companies/rippling"
+  },
+  {
+    "name": "Rivian2 easy · 6 medium · 1 hard–9",
+    "slug": "rivian",
+    "url": "https://www.talentd.in/fleetcode/companies/rivian"
+  },
+  {
+    "name": "Robinhood3 easy · 11 medium · 1 hard–15",
+    "slug": "robinhood",
+    "url": "https://www.talentd.in/fleetcode/companies/robinhood"
+  },
+  {
+    "name": "Roblox8 easy · 35 medium · 13 hard–56",
+    "slug": "roblox",
+    "url": "https://www.talentd.in/fleetcode/companies/roblox"
+  },
+  {
+    "name": "Rokt2 easy · 2 medium · 2 hard–6",
+    "slug": "rokt",
+    "url": "https://www.talentd.in/fleetcode/companies/rokt"
+  },
+  {
+    "name": "Roku3 easy · 10 medium · 5 hard–18",
+    "slug": "roku",
+    "url": "https://www.talentd.in/fleetcode/companies/roku"
+  },
+  {
+    "name": "Rubrik2 easy · 22 medium · 11 hard–35",
+    "slug": "rubrik",
+    "url": "https://www.talentd.in/fleetcode/companies/rubrik"
+  },
+  {
+    "name": "Rupeek0 easy · 1 medium · 0 hard–1",
+    "slug": "rupeek",
+    "url": "https://www.talentd.in/fleetcode/companies/rupeek"
+  },
+  {
+    "name": "Salesforce25 easy · 114 medium · 52 hard6191",
+    "slug": "salesforce",
+    "url": "https://www.talentd.in/fleetcode/companies/salesforce"
+  },
+  {
+    "name": "Sambanova0 easy · 1 medium · 0 hard–1",
+    "slug": "sambanova",
+    "url": "https://www.talentd.in/fleetcode/companies/sambanova"
+  },
+  {
+    "name": "Samsara1 easy · 3 medium · 1 hard–5",
+    "slug": "samsara",
+    "url": "https://www.talentd.in/fleetcode/companies/samsara"
+  },
+  {
+    "name": "Samsung11 easy · 34 medium · 18 hard–63",
+    "slug": "samsung",
+    "url": "https://www.talentd.in/fleetcode/companies/samsung"
+  },
+  {
+    "name": "SAP14 easy · 20 medium · 7 hard–41",
+    "slug": "sap",
+    "url": "https://www.talentd.in/fleetcode/companies/sap"
+  },
+  {
+    "name": "Scale Ai0 easy · 1 medium · 0 hard–1",
+    "slug": "scale-ai",
+    "url": "https://www.talentd.in/fleetcode/companies/scale-ai"
+  },
+  {
+    "name": "Scaler0 easy · 2 medium · 1 hard–3",
+    "slug": "scaler",
+    "url": "https://www.talentd.in/fleetcode/companies/scaler"
+  },
+  {
+    "name": "Schlumberger0 easy · 1 medium · 0 hard–1",
+    "slug": "schlumberger",
+    "url": "https://www.talentd.in/fleetcode/companies/schlumberger"
+  },
+  {
+    "name": "Schneider Electric0 easy · 0 medium · 1 hard–1",
+    "slug": "schneider-electric",
+    "url": "https://www.talentd.in/fleetcode/companies/schneider-electric"
+  },
+  {
+    "name": "Schrodinger0 easy · 1 medium · 0 hard–1",
+    "slug": "schrodinger",
+    "url": "https://www.talentd.in/fleetcode/companies/schrodinger"
+  },
+  {
+    "name": "Sentry0 easy · 1 medium · 1 hard–2",
+    "slug": "sentry",
+    "url": "https://www.talentd.in/fleetcode/companies/sentry"
+  },
+  {
+    "name": "ServiceNow7 easy · 52 medium · 13 hard–72",
+    "slug": "servicenow",
+    "url": "https://www.talentd.in/fleetcode/companies/servicenow"
+  },
+  {
+    "name": "ShareChat1 easy · 1 medium · 0 hard–2",
+    "slug": "sharechat",
+    "url": "https://www.talentd.in/fleetcode/companies/sharechat"
+  },
+  {
+    "name": "Shift Technology1 easy · 1 medium · 0 hard–2",
+    "slug": "shift-technology",
+    "url": "https://www.talentd.in/fleetcode/companies/shift-technology"
+  },
+  {
+    "name": "Shipsy0 easy · 1 medium · 0 hard–1",
+    "slug": "shipsy",
+    "url": "https://www.talentd.in/fleetcode/companies/shipsy"
+  },
+  {
+    "name": "Shopback0 easy · 2 medium · 0 hard–2",
+    "slug": "shopback",
+    "url": "https://www.talentd.in/fleetcode/companies/shopback"
+  },
+  {
+    "name": "Shopee1 easy · 6 medium · 1 hard–8",
+    "slug": "shopee",
+    "url": "https://www.talentd.in/fleetcode/companies/shopee"
+  },
+  {
+    "name": "Shopify0 easy · 4 medium · 2 hard–6",
+    "slug": "shopify",
+    "url": "https://www.talentd.in/fleetcode/companies/shopify"
+  },
+  {
+    "name": "Shopup0 easy · 1 medium · 0 hard–1",
+    "slug": "shopup",
+    "url": "https://www.talentd.in/fleetcode/companies/shopup"
+  },
+  {
+    "name": "Siemens7 easy · 13 medium · 3 hard–23",
+    "slug": "siemens",
+    "url": "https://www.talentd.in/fleetcode/companies/siemens"
+  },
+  {
+    "name": "Sig0 easy · 8 medium · 3 hard–11",
+    "slug": "sig",
+    "url": "https://www.talentd.in/fleetcode/companies/sig"
+  },
+  {
+    "name": "Sigmoid4 easy · 9 medium · 1 hard–14",
+    "slug": "sigmoid",
+    "url": "https://www.talentd.in/fleetcode/companies/sigmoid"
+  },
+  {
+    "name": "Singlestore0 easy · 2 medium · 0 hard–2",
+    "slug": "singlestore",
+    "url": "https://www.talentd.in/fleetcode/companies/singlestore"
+  },
+  {
+    "name": "Sixt0 easy · 1 medium · 0 hard–1",
+    "slug": "sixt",
+    "url": "https://www.talentd.in/fleetcode/companies/sixt"
+  },
+  {
+    "name": "Slice0 easy · 1 medium · 0 hard–1",
+    "slug": "slice",
+    "url": "https://www.talentd.in/fleetcode/companies/slice"
+  },
+  {
+    "name": "Smartnews0 easy · 2 medium · 0 hard–2",
+    "slug": "smartnews",
+    "url": "https://www.talentd.in/fleetcode/companies/smartnews"
+  },
+  {
+    "name": "Smartsheet0 easy · 1 medium · 0 hard–1",
+    "slug": "smartsheet",
+    "url": "https://www.talentd.in/fleetcode/companies/smartsheet"
+  },
+  {
+    "name": "Snapchat5 easy · 52 medium · 27 hard184",
+    "slug": "snapchat",
+    "url": "https://www.talentd.in/fleetcode/companies/snapchat"
+  },
+  {
+    "name": "Snapdeal1 easy · 1 medium · 0 hard–2",
+    "slug": "snapdeal",
+    "url": "https://www.talentd.in/fleetcode/companies/snapdeal"
+  },
+  {
+    "name": "Snowflake13 easy · 69 medium · 20 hard2102",
+    "slug": "snowflake",
+    "url": "https://www.talentd.in/fleetcode/companies/snowflake"
+  },
+  {
+    "name": "Societe Generale2 easy · 2 medium · 0 hard–4",
+    "slug": "societe-generale",
+    "url": "https://www.talentd.in/fleetcode/companies/societe-generale"
+  },
+  {
+    "name": "Sofi1 easy · 9 medium · 5 hard–15",
+    "slug": "sofi",
+    "url": "https://www.talentd.in/fleetcode/companies/sofi"
+  },
+  {
+    "name": "Softwire1 easy · 1 medium · 0 hard–2",
+    "slug": "softwire",
+    "url": "https://www.talentd.in/fleetcode/companies/softwire"
+  },
+  {
+    "name": "Sonatus0 easy · 3 medium · 0 hard13",
+    "slug": "sonatus",
+    "url": "https://www.talentd.in/fleetcode/companies/sonatus"
+  },
+  {
+    "name": "Sony3 easy · 1 medium · 1 hard–5",
+    "slug": "sony",
+    "url": "https://www.talentd.in/fleetcode/companies/sony"
+  },
+  {
+    "name": "SOTI1 easy · 0 medium · 0 hard–1",
+    "slug": "soti",
+    "url": "https://www.talentd.in/fleetcode/companies/soti"
+  },
+  {
+    "name": "Soundhound1 easy · 1 medium · 1 hard–3",
+    "slug": "soundhound",
+    "url": "https://www.talentd.in/fleetcode/companies/soundhound"
+  },
+  {
+    "name": "Spacex0 easy · 1 medium · 0 hard–1",
+    "slug": "spacex",
+    "url": "https://www.talentd.in/fleetcode/companies/spacex"
+  },
+  {
+    "name": "Spinny0 easy · 7 medium · 0 hard–7",
+    "slug": "spinny",
+    "url": "https://www.talentd.in/fleetcode/companies/spinny"
+  },
+  {
+    "name": "Splunk2 easy · 8 medium · 1 hard–11",
+    "slug": "splunk",
+    "url": "https://www.talentd.in/fleetcode/companies/splunk"
+  },
+  {
+    "name": "Spotify7 easy · 3 medium · 4 hard–14",
+    "slug": "spotify",
+    "url": "https://www.talentd.in/fleetcode/companies/spotify"
+  },
+  {
+    "name": "Sprinklr1 easy · 18 medium · 22 hard141",
+    "slug": "sprinklr",
+    "url": "https://www.talentd.in/fleetcode/companies/sprinklr"
+  },
+  {
+    "name": "Square1 easy · 9 medium · 1 hard–11",
+    "slug": "square",
+    "url": "https://www.talentd.in/fleetcode/companies/square"
+  },
+  {
+    "name": "Squarepoint Capital2 easy · 19 medium · 6 hard–27",
+    "slug": "squarepoint-capital",
+    "url": "https://www.talentd.in/fleetcode/companies/squarepoint-capital"
+  },
+  {
+    "name": "Squarespace3 easy · 2 medium · 0 hard–5",
+    "slug": "squarespace",
+    "url": "https://www.talentd.in/fleetcode/companies/squarespace"
+  },
+  {
+    "name": "Stackadapt0 easy · 2 medium · 1 hard–3",
+    "slug": "stackadapt",
+    "url": "https://www.talentd.in/fleetcode/companies/stackadapt"
+  },
+  {
+    "name": "Stackline0 easy · 1 medium · 1 hard–2",
+    "slug": "stackline",
+    "url": "https://www.talentd.in/fleetcode/companies/stackline"
+  },
+  {
+    "name": "Starbucks0 easy · 2 medium · 0 hard–2",
+    "slug": "starbucks",
+    "url": "https://www.talentd.in/fleetcode/companies/starbucks"
+  },
+  {
+    "name": "State Farm0 easy · 1 medium · 0 hard–1",
+    "slug": "state-farm",
+    "url": "https://www.talentd.in/fleetcode/companies/state-farm"
+  },
+  {
+    "name": "Strava0 easy · 1 medium · 0 hard–1",
+    "slug": "strava",
+    "url": "https://www.talentd.in/fleetcode/companies/strava"
+  },
+  {
+    "name": "Stripe1 easy · 10 medium · 1 hard–12",
+    "slug": "stripe",
+    "url": "https://www.talentd.in/fleetcode/companies/stripe"
+  },
+  {
+    "name": "Sumo Logic0 easy · 3 medium · 0 hard–3",
+    "slug": "sumo-logic",
+    "url": "https://www.talentd.in/fleetcode/companies/sumo-logic"
+  },
+  {
+    "name": "Swiggy6 easy · 24 medium · 6 hard–36",
+    "slug": "swiggy",
+    "url": "https://www.talentd.in/fleetcode/companies/swiggy"
+  },
+  {
+    "name": "Syfe1 easy · 0 medium · 0 hard–1",
+    "slug": "syfe",
+    "url": "https://www.talentd.in/fleetcode/companies/syfe"
+  },
+  {
+    "name": "Symantec0 easy · 1 medium · 0 hard–1",
+    "slug": "symantec",
+    "url": "https://www.talentd.in/fleetcode/companies/symantec"
+  },
+  {
+    "name": "Synopsys1 easy · 0 medium · 0 hard–1",
+    "slug": "synopsys",
+    "url": "https://www.talentd.in/fleetcode/companies/synopsys"
+  },
+  {
+    "name": "Ta Digital0 easy · 0 medium · 1 hard–1",
+    "slug": "ta-digital",
+    "url": "https://www.talentd.in/fleetcode/companies/ta-digital"
+  },
+  {
+    "name": "Tableau0 easy · 1 medium · 0 hard–1",
+    "slug": "tableau",
+    "url": "https://www.talentd.in/fleetcode/companies/tableau"
+  },
+  {
+    "name": "Tanium1 easy · 1 medium · 0 hard–2",
+    "slug": "tanium",
+    "url": "https://www.talentd.in/fleetcode/companies/tanium"
+  },
+  {
+    "name": "Target1 easy · 5 medium · 1 hard–7",
+    "slug": "target",
+    "url": "https://www.talentd.in/fleetcode/companies/target"
+  },
+  {
+    "name": "TCS240 questions · 20 recent",
+    "slug": "tcs",
+    "url": "https://www.talentd.in/fleetcode/companies/tcs"
+  },
+  {
+    "name": "Tech Mahindra1 easy · 2 medium · 0 hard–3",
+    "slug": "tech-mahindra",
+    "url": "https://www.talentd.in/fleetcode/companies/tech-mahindra"
+  },
+  {
+    "name": "Techolution0 easy · 1 medium · 0 hard–1",
+    "slug": "techolution",
+    "url": "https://www.talentd.in/fleetcode/companies/techolution"
+  },
+  {
+    "name": "Tekion1 easy · 16 medium · 7 hard124",
+    "slug": "tekion",
+    "url": "https://www.talentd.in/fleetcode/companies/tekion"
+  },
+  {
+    "name": "Tencent1 easy · 4 medium · 1 hard–6",
+    "slug": "tencent",
+    "url": "https://www.talentd.in/fleetcode/companies/tencent"
+  },
+  {
+    "name": "Teradata0 easy · 2 medium · 1 hard–3",
+    "slug": "teradata",
+    "url": "https://www.talentd.in/fleetcode/companies/teradata"
+  },
+  {
+    "name": "Tesco0 easy · 2 medium · 0 hard–2",
+    "slug": "tesco",
+    "url": "https://www.talentd.in/fleetcode/companies/tesco"
+  },
+  {
+    "name": "Tesla10 easy · 26 medium · 6 hard–42",
+    "slug": "tesla",
+    "url": "https://www.talentd.in/fleetcode/companies/tesla"
+  },
+  {
+    "name": "Texas Instruments0 easy · 4 medium · 2 hard–6",
+    "slug": "texas-instruments",
+    "url": "https://www.talentd.in/fleetcode/companies/texas-instruments"
+  },
+  {
+    "name": "The Trade Desk0 easy · 5 medium · 1 hard–6",
+    "slug": "the-trade-desk",
+    "url": "https://www.talentd.in/fleetcode/companies/the-trade-desk"
+  },
+  {
+    "name": "Thomson Reuters1 easy · 1 medium · 0 hard–2",
+    "slug": "thomson-reuters",
+    "url": "https://www.talentd.in/fleetcode/companies/thomson-reuters"
+  },
+  {
+    "name": "Thoughtspot0 easy · 2 medium · 3 hard–5",
+    "slug": "thoughtspot",
+    "url": "https://www.talentd.in/fleetcode/companies/thoughtspot"
+  },
+  {
+    "name": "Thoughtworks2 easy · 0 medium · 2 hard–4",
+    "slug": "thoughtworks",
+    "url": "https://www.talentd.in/fleetcode/companies/thoughtworks"
+  },
+  {
+    "name": "Thousandeyes0 easy · 2 medium · 1 hard–3",
+    "slug": "thousandeyes",
+    "url": "https://www.talentd.in/fleetcode/companies/thousandeyes"
+  },
+  {
+    "name": "Thumbtack0 easy · 1 medium · 0 hard–1",
+    "slug": "thumbtack",
+    "url": "https://www.talentd.in/fleetcode/companies/thumbtack"
+  },
+  {
+    "name": "TIAA1 easy · 0 medium · 0 hard–1",
+    "slug": "tiaa",
+    "url": "https://www.talentd.in/fleetcode/companies/tiaa"
+  },
+  {
+    "name": "Tiger Analytics3 easy · 0 medium · 0 hard–3",
+    "slug": "tiger-analytics",
+    "url": "https://www.talentd.in/fleetcode/companies/tiger-analytics"
+  },
+  {
+    "name": "Tiktok33 easy · 244 medium · 72 hard6349",
+    "slug": "tiktok",
+    "url": "https://www.talentd.in/fleetcode/companies/tiktok"
+  },
+  {
+    "name": "Tinder1 easy · 0 medium · 2 hard–3",
+    "slug": "tinder",
+    "url": "https://www.talentd.in/fleetcode/companies/tinder"
+  },
+  {
+    "name": "Tinkoff9 easy · 11 medium · 0 hard–20",
+    "slug": "tinkoff",
+    "url": "https://www.talentd.in/fleetcode/companies/tinkoff"
+  },
+  {
+    "name": "Toast3 easy · 2 medium · 0 hard–5",
+    "slug": "toast",
+    "url": "https://www.talentd.in/fleetcode/companies/toast"
+  },
+  {
+    "name": "Tokopedia0 easy · 1 medium · 0 hard–1",
+    "slug": "tokopedia",
+    "url": "https://www.talentd.in/fleetcode/companies/tokopedia"
+  },
+  {
+    "name": "Tomtom1 easy · 3 medium · 0 hard–4",
+    "slug": "tomtom",
+    "url": "https://www.talentd.in/fleetcode/companies/tomtom"
+  },
+  {
+    "name": "Toptal0 easy · 1 medium · 1 hard–2",
+    "slug": "toptal",
+    "url": "https://www.talentd.in/fleetcode/companies/toptal"
+  },
+  {
+    "name": "Tower Research Capital0 easy · 3 medium · 0 hard–3",
+    "slug": "tower-research-capital",
+    "url": "https://www.talentd.in/fleetcode/companies/tower-research-capital"
+  },
+  {
+    "name": "Toyota0 easy · 1 medium · 0 hard–1",
+    "slug": "toyota",
+    "url": "https://www.talentd.in/fleetcode/companies/toyota"
+  },
+  {
+    "name": "Tracxn0 easy · 1 medium · 0 hard–1",
+    "slug": "tracxn",
+    "url": "https://www.talentd.in/fleetcode/companies/tracxn"
+  },
+  {
+    "name": "Traveloka0 easy · 1 medium · 0 hard–1",
+    "slug": "traveloka",
+    "url": "https://www.talentd.in/fleetcode/companies/traveloka"
+  },
+  {
+    "name": "Trend Micro0 easy · 1 medium · 0 hard–1",
+    "slug": "trend-micro",
+    "url": "https://www.talentd.in/fleetcode/companies/trend-micro"
+  },
+  {
+    "name": "Trexquant0 easy · 4 medium · 0 hard–4",
+    "slug": "trexquant",
+    "url": "https://www.talentd.in/fleetcode/companies/trexquant"
+  },
+  {
+    "name": "Trilogy0 easy · 4 medium · 3 hard–7",
+    "slug": "trilogy-1",
+    "url": "https://www.talentd.in/fleetcode/companies/trilogy-1"
+  },
+  {
+    "name": "Tripactions1 easy · 0 medium · 0 hard–1",
+    "slug": "tripactions",
+    "url": "https://www.talentd.in/fleetcode/companies/tripactions"
+  },
+  {
+    "name": "Tripadvisor3 easy · 3 medium · 0 hard–6",
+    "slug": "tripadvisor-1",
+    "url": "https://www.talentd.in/fleetcode/companies/tripadvisor-1"
+  },
+  {
+    "name": "Triplebyte0 easy · 1 medium · 0 hard–1",
+    "slug": "triplebyte-1",
+    "url": "https://www.talentd.in/fleetcode/companies/triplebyte-1"
+  },
+  {
+    "name": "Turing10 easy · 23 medium · 4 hard–37",
+    "slug": "turing",
+    "url": "https://www.talentd.in/fleetcode/companies/turing"
+  },
+  {
+    "name": "Turvo1 easy · 0 medium · 1 hard–2",
+    "slug": "turvo",
+    "url": "https://www.talentd.in/fleetcode/companies/turvo"
+  },
+  {
+    "name": "TuSimple0 easy · 2 medium · 2 hard–4",
+    "slug": "tusimple-1",
+    "url": "https://www.talentd.in/fleetcode/companies/tusimple-1"
+  },
+  {
+    "name": "Twilio2 easy · 8 medium · 0 hard–10",
+    "slug": "twilio-1",
+    "url": "https://www.talentd.in/fleetcode/companies/twilio-1"
+  },
+  {
+    "name": "Twitch2 easy · 4 medium · 1 hard–7",
+    "slug": "twitch-1",
+    "url": "https://www.talentd.in/fleetcode/companies/twitch-1"
+  },
+  {
+    "name": "Twitter8 easy · 31 medium · 12 hard–51",
+    "slug": "twitter-1",
+    "url": "https://www.talentd.in/fleetcode/companies/twitter-1"
+  },
+  {
+    "name": "Two Sigma3 easy · 11 medium · 5 hard–19",
+    "slug": "two-sigma-1",
+    "url": "https://www.talentd.in/fleetcode/companies/two-sigma-1"
+  },
+  {
+    "name": "Uber Interview QuestionsGraphs, BFS, design problems",
+    "slug": "uber",
+    "url": "https://www.talentd.in/fleetcode/companies/uber"
+  },
+  {
+    "name": "Ubisoft1 easy · 0 medium · 0 hard–1",
+    "slug": "ubisoft",
+    "url": "https://www.talentd.in/fleetcode/companies/ubisoft"
+  },
+  {
+    "name": "UBS1 easy · 3 medium · 0 hard–4",
+    "slug": "ubs",
+    "url": "https://www.talentd.in/fleetcode/companies/ubs"
+  },
+  {
+    "name": "Udemy4 easy · 2 medium · 1 hard–7",
+    "slug": "udemy-1",
+    "url": "https://www.talentd.in/fleetcode/companies/udemy-1"
+  },
+  {
+    "name": "UiPath0 easy · 9 medium · 5 hard–14",
+    "slug": "uipath-1",
+    "url": "https://www.talentd.in/fleetcode/companies/uipath-1"
+  },
+  {
+    "name": "UKG3 easy · 5 medium · 2 hard–10",
+    "slug": "ukg",
+    "url": "https://www.talentd.in/fleetcode/companies/ukg"
+  },
+  {
+    "name": "Unbxd0 easy · 1 medium · 0 hard–1",
+    "slug": "unbxd-1",
+    "url": "https://www.talentd.in/fleetcode/companies/unbxd-1"
+  },
+  {
+    "name": "Unifyapps0 easy · 0 medium · 1 hard–1",
+    "slug": "unifyapps",
+    "url": "https://www.talentd.in/fleetcode/companies/unifyapps"
+  },
+  {
+    "name": "Unity0 easy · 2 medium · 0 hard–2",
+    "slug": "unity-1",
+    "url": "https://www.talentd.in/fleetcode/companies/unity-1"
+  },
+  {
+    "name": "Unstop0 easy · 1 medium · 0 hard–1",
+    "slug": "unstop",
+    "url": "https://www.talentd.in/fleetcode/companies/unstop"
+  },
+  {
+    "name": "Upstart0 easy · 6 medium · 0 hard–6",
+    "slug": "upstart-1",
+    "url": "https://www.talentd.in/fleetcode/companies/upstart-1"
+  },
+  {
+    "name": "Urban Company0 easy · 5 medium · 2 hard–7",
+    "slug": "urban-company-1",
+    "url": "https://www.talentd.in/fleetcode/companies/urban-company-1"
+  },
+  {
+    "name": "Usaa2 easy · 1 medium · 0 hard–3",
+    "slug": "usaa",
+    "url": "https://www.talentd.in/fleetcode/companies/usaa"
+  },
+  {
+    "name": "UST1 easy · 0 medium · 0 hard–1",
+    "slug": "ust",
+    "url": "https://www.talentd.in/fleetcode/companies/ust"
+  },
+  {
+    "name": "Valve1 easy · 3 medium · 0 hard–4",
+    "slug": "valve-1",
+    "url": "https://www.talentd.in/fleetcode/companies/valve-1"
+  },
+  {
+    "name": "Veeva0 easy · 1 medium · 0 hard–1",
+    "slug": "veeva-1",
+    "url": "https://www.talentd.in/fleetcode/companies/veeva-1"
+  },
+  {
+    "name": "Verily1 easy · 8 medium · 2 hard–11",
+    "slug": "verily-1",
+    "url": "https://www.talentd.in/fleetcode/companies/verily-1"
+  },
+  {
+    "name": "Veritas0 easy · 1 medium · 0 hard–1",
+    "slug": "veritas-1",
+    "url": "https://www.talentd.in/fleetcode/companies/veritas-1"
+  },
+  {
+    "name": "Verizon2 easy · 3 medium · 1 hard–6",
+    "slug": "verizon",
+    "url": "https://www.talentd.in/fleetcode/companies/verizon"
+  },
+  {
+    "name": "Verkada4 easy · 10 medium · 5 hard–19",
+    "slug": "verkada-1",
+    "url": "https://www.talentd.in/fleetcode/companies/verkada-1"
+  },
+  {
+    "name": "Viasat1 easy · 1 medium · 0 hard–2",
+    "slug": "viasat-1",
+    "url": "https://www.talentd.in/fleetcode/companies/viasat-1"
+  },
+  {
+    "name": "Vimeo1 easy · 5 medium · 1 hard–7",
+    "slug": "vimeo",
+    "url": "https://www.talentd.in/fleetcode/companies/vimeo"
+  },
+  {
+    "name": "Virtu Financial4 easy · 1 medium · 0 hard–5",
+    "slug": "virtu-financial",
+    "url": "https://www.talentd.in/fleetcode/companies/virtu-financial"
+  },
+  {
+    "name": "Virtusa3 easy · 3 medium · 0 hard–6",
+    "slug": "virtusa",
+    "url": "https://www.talentd.in/fleetcode/companies/virtusa"
+  },
+  {
+    "name": "Visa32 easy · 92 medium · 21 hard2145",
+    "slug": "visa",
+    "url": "https://www.talentd.in/fleetcode/companies/visa"
+  },
+  {
+    "name": "VK7 easy · 6 medium · 0 hard–13",
+    "slug": "vk-1",
+    "url": "https://www.talentd.in/fleetcode/companies/vk-1"
+  },
+  {
+    "name": "VMware0 easy · 6 medium · 2 hard–8",
+    "slug": "vmware-1",
+    "url": "https://www.talentd.in/fleetcode/companies/vmware-1"
+  },
+  {
+    "name": "Walmart Labs22 easy · 95 medium · 26 hard1143",
+    "slug": "walmart-labs",
+    "url": "https://www.talentd.in/fleetcode/companies/walmart-labs"
+  },
+  {
+    "name": "WarnerMedia2 easy · 4 medium · 2 hard–8",
+    "slug": "warnermedia-1",
+    "url": "https://www.talentd.in/fleetcode/companies/warnermedia-1"
+  },
+  {
+    "name": "Wayfair5 easy · 12 medium · 3 hard–20",
+    "slug": "wayfair-1",
+    "url": "https://www.talentd.in/fleetcode/companies/wayfair-1"
+  },
+  {
+    "name": "Waymo1 easy · 14 medium · 11 hard–26",
+    "slug": "waymo-1",
+    "url": "https://www.talentd.in/fleetcode/companies/waymo-1"
+  },
+  {
+    "name": "Wayve0 easy · 1 medium · 0 hard–1",
+    "slug": "wayve-1",
+    "url": "https://www.talentd.in/fleetcode/companies/wayve-1"
+  },
+  {
+    "name": "Wealthfront0 easy · 1 medium · 0 hard–1",
+    "slug": "wealthfront-1",
+    "url": "https://www.talentd.in/fleetcode/companies/wealthfront-1"
+  },
+  {
+    "name": "Wells Fargo10 easy · 11 medium · 2 hard–23",
+    "slug": "wells-fargo",
+    "url": "https://www.talentd.in/fleetcode/companies/wells-fargo"
+  },
+  {
+    "name": "WeRide1 easy · 3 medium · 6 hard–10",
+    "slug": "weride-1",
+    "url": "https://www.talentd.in/fleetcode/companies/weride-1"
+  },
+  {
+    "name": "Western Digital1 easy · 0 medium · 0 hard–1",
+    "slug": "western-digital",
+    "url": "https://www.talentd.in/fleetcode/companies/western-digital"
+  },
+  {
+    "name": "Whatfix0 easy · 1 medium · 0 hard–1",
+    "slug": "whatfix",
+    "url": "https://www.talentd.in/fleetcode/companies/whatfix"
+  },
+  {
+    "name": "Whatnot4 easy · 9 medium · 0 hard–13",
+    "slug": "whatnot-1",
+    "url": "https://www.talentd.in/fleetcode/companies/whatnot-1"
+  },
+  {
+    "name": "Winzo0 easy · 0 medium · 1 hard–1",
+    "slug": "winzo",
+    "url": "https://www.talentd.in/fleetcode/companies/winzo"
+  },
+  {
+    "name": "Wipro13 easy · 6 medium · 0 hard–19",
+    "slug": "wipro",
+    "url": "https://www.talentd.in/fleetcode/companies/wipro"
+  },
+  {
+    "name": "Wise1 easy · 5 medium · 0 hard–6",
+    "slug": "wise-1",
+    "url": "https://www.talentd.in/fleetcode/companies/wise-1"
+  },
+  {
+    "name": "Wish0 easy · 4 medium · 1 hard–5",
+    "slug": "wish-1",
+    "url": "https://www.talentd.in/fleetcode/companies/wish-1"
+  },
+  {
+    "name": "Wissen0 easy · 2 medium · 0 hard–2",
+    "slug": "wissen-1",
+    "url": "https://www.talentd.in/fleetcode/companies/wissen-1"
+  },
+  {
+    "name": "Wix16 easy · 31 medium · 8 hard–55",
+    "slug": "wix-1",
+    "url": "https://www.talentd.in/fleetcode/companies/wix-1"
+  },
+  {
+    "name": "Workday0 easy · 6 medium · 0 hard–6",
+    "slug": "workday",
+    "url": "https://www.talentd.in/fleetcode/companies/workday"
+  },
+  {
+    "name": "Works Applications0 easy · 2 medium · 2 hard–4",
+    "slug": "works-applications-1",
+    "url": "https://www.talentd.in/fleetcode/companies/works-applications-1"
+  },
+  {
+    "name": "WorldQuant0 easy · 1 medium · 3 hard–4",
+    "slug": "worldquant-1",
+    "url": "https://www.talentd.in/fleetcode/companies/worldquant-1"
+  },
+  {
+    "name": "Woven by Toyota0 easy · 0 medium · 1 hard–1",
+    "slug": "woven-by-toyota-1",
+    "url": "https://www.talentd.in/fleetcode/companies/woven-by-toyota-1"
+  },
+  {
+    "name": "XING0 easy · 1 medium · 0 hard–1",
+    "slug": "xing-1",
+    "url": "https://www.talentd.in/fleetcode/companies/xing-1"
+  },
+  {
+    "name": "Yahoo11 easy · 19 medium · 3 hard–33",
+    "slug": "yahoo",
+    "url": "https://www.talentd.in/fleetcode/companies/yahoo"
+  },
+  {
+    "name": "Yandex51 easy · 69 medium · 10 hard2130",
+    "slug": "yandex-1",
+    "url": "https://www.talentd.in/fleetcode/companies/yandex-1"
+  },
+  {
+    "name": "Yatra0 easy · 1 medium · 0 hard–1",
+    "slug": "yatra",
+    "url": "https://www.talentd.in/fleetcode/companies/yatra"
+  },
+  {
+    "name": "Yelp7 easy · 15 medium · 5 hard–27",
+    "slug": "yelp-1",
+    "url": "https://www.talentd.in/fleetcode/companies/yelp-1"
+  },
+  {
+    "name": "Yugabyte0 easy · 0 medium · 1 hard–1",
+    "slug": "yugabyte-1",
+    "url": "https://www.talentd.in/fleetcode/companies/yugabyte-1"
+  },
+  {
+    "name": "Zalando1 easy · 2 medium · 0 hard–3",
+    "slug": "zalando-1",
+    "url": "https://www.talentd.in/fleetcode/companies/zalando-1"
+  },
+  {
+    "name": "Zappos1 easy · 0 medium · 0 hard–1",
+    "slug": "zappos-1",
+    "url": "https://www.talentd.in/fleetcode/companies/zappos-1"
+  },
+  {
+    "name": "Zemoso0 easy · 2 medium · 0 hard–2",
+    "slug": "zemoso-1",
+    "url": "https://www.talentd.in/fleetcode/companies/zemoso-1"
+  },
+  {
+    "name": "Zendesk2 easy · 0 medium · 0 hard–2",
+    "slug": "zendesk-1",
+    "url": "https://www.talentd.in/fleetcode/companies/zendesk-1"
+  },
+  {
+    "name": "Zenefits5 easy · 11 medium · 5 hard–21",
+    "slug": "zenefits-1",
+    "url": "https://www.talentd.in/fleetcode/companies/zenefits-1"
+  },
+  {
+    "name": "Zepto1 easy · 19 medium · 2 hard–22",
+    "slug": "zepto",
+    "url": "https://www.talentd.in/fleetcode/companies/zepto"
+  },
+  {
+    "name": "Zeta Suite1 easy · 0 medium · 0 hard–1",
+    "slug": "zeta-suite",
+    "url": "https://www.talentd.in/fleetcode/companies/zeta-suite"
+  },
+  {
+    "name": "Zeta0 easy · 20 medium · 10 hard–30",
+    "slug": "zeta",
+    "url": "https://www.talentd.in/fleetcode/companies/zeta"
+  },
+  {
+    "name": "Zillow0 easy · 1 medium · 0 hard–1",
+    "slug": "zillow-1",
+    "url": "https://www.talentd.in/fleetcode/companies/zillow-1"
+  },
+  {
+    "name": "Zip0 easy · 3 medium · 1 hard–4",
+    "slug": "zip-1",
+    "url": "https://www.talentd.in/fleetcode/companies/zip-1"
+  },
+  {
+    "name": "ZipRecruiter0 easy · 4 medium · 0 hard–4",
+    "slug": "ziprecruiter-1",
+    "url": "https://www.talentd.in/fleetcode/companies/ziprecruiter-1"
+  },
+  {
+    "name": "Zluri0 easy · 2 medium · 0 hard–2",
+    "slug": "zluri-1",
+    "url": "https://www.talentd.in/fleetcode/companies/zluri-1"
+  },
+  {
+    "name": "Zocdoc0 easy · 1 medium · 0 hard–1",
+    "slug": "zocdoc-1",
+    "url": "https://www.talentd.in/fleetcode/companies/zocdoc-1"
+  },
+  {
+    "name": "Zoho55 easy · 94 medium · 20 hard1169",
+    "slug": "zoho",
+    "url": "https://www.talentd.in/fleetcode/companies/zoho"
+  },
+  {
+    "name": "Zomato2 easy · 17 medium · 9 hard–28",
+    "slug": "zomato-1",
+    "url": "https://www.talentd.in/fleetcode/companies/zomato-1"
+  },
+  {
+    "name": "Zoom2 easy · 1 medium · 1 hard–4",
+    "slug": "zoom",
+    "url": "https://www.talentd.in/fleetcode/companies/zoom"
+  },
+  {
+    "name": "Zoox1 easy · 4 medium · 1 hard–6",
+    "slug": "zoox-1",
+    "url": "https://www.talentd.in/fleetcode/companies/zoox-1"
+  },
+  {
+    "name": "Zopsmart2 easy · 12 medium · 2 hard316",
+    "slug": "zopsmart-1",
+    "url": "https://www.talentd.in/fleetcode/companies/zopsmart-1"
+  },
+  {
+    "name": "Zs Associates2 easy · 7 medium · 0 hard–9",
+    "slug": "zs-associates",
+    "url": "https://www.talentd.in/fleetcode/companies/zs-associates"
+  },
+  {
+    "name": "Zscaler3 easy · 6 medium · 6 hard–15",
+    "slug": "zscaler",
+    "url": "https://www.talentd.in/fleetcode/companies/zscaler"
+  },
+  {
+    "name": "Zulily1 easy · 1 medium · 0 hard–2",
+    "slug": "zulily",
+    "url": "https://www.talentd.in/fleetcode/companies/zulily"
+  },
+  {
+    "name": "Zynga1 easy · 1 medium · 0 hard–2",
+    "slug": "zynga",
+    "url": "https://www.talentd.in/fleetcode/companies/zynga"
+  }
+]
