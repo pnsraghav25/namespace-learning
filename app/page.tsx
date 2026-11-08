@@ -876,98 +876,200 @@ export default function Page() {
 
   /* ---------- initial load ---------- */
   useEffect(() => {
-    try {
-      const t = localStorage.getItem(THEME_KEY);
-      if (t === "light" || t === "dark") setTheme(t);
-      else if (window.matchMedia?.("(prefers-color-scheme: light)").matches)
-        setTheme("light");
-    } catch {}
+    let cancelled = false;
 
-    fetch("/companies.json")
-      .then((r) => (r.ok ? r.json() : null))
-      .then((raw) => raw && setCompanies(normCompanies(raw)))
-      .catch(() => {});
+    const initialize = async () => {
+      try {
+        const savedTheme = localStorage.getItem(THEME_KEY);
 
-    let stored: Record<string, Dataset> = {};
-    let storedSel: string[] = [];
-    try {
-      stored = JSON.parse(localStorage.getItem(STORE_KEY) || "{}") || {};
-      storedSel = JSON.parse(localStorage.getItem(SELECT_KEY) || "[]") || [];
-    } catch {}
+        if (savedTheme === "light" || savedTheme === "dark") {
+          setTheme(savedTheme);
+        } else if (window.matchMedia("(prefers-color-scheme: light)").matches) {
+          setTheme("light");
+        }
+      } catch {
+        // Continue if browser storage is unavailable.
+      }
 
-    if (Object.keys(stored).length) {
-      for (const key of Object.keys(stored)) {
-        stored[key] = {
-          ...stored[key],
-          company: titleCase(key),
-          questions: dedupe(
-            (stored[key].questions || [])
-              .map(normQuestion)
-              .filter(Boolean) as Question[],
+      let catalog: CompanyInfo[] = [];
+
+      try {
+        const response = await fetch("/companies.json");
+
+        if (response.ok) {
+          catalog = normCompanies(await response.json());
+
+          if (!cancelled) {
+            setCompanies(catalog);
+          }
+        }
+      } catch {
+        // Imports can still use company slugs without the catalog.
+      }
+
+      let savedDatasets: Record<string, Dataset> = {};
+      let savedSelection: string[] = [];
+
+      try {
+        const stored: unknown = JSON.parse(
+          localStorage.getItem(STORE_KEY) || "{}",
+        );
+
+        if (stored && typeof stored === "object" && !Array.isArray(stored)) {
+          for (const [key, value] of Object.entries(stored)) {
+            const dataset = value as Partial<Dataset>;
+
+            if (!dataset || !Array.isArray(dataset.questions)) {
+              continue;
+            }
+
+            const questions = dedupe(
+              dataset.questions
+                .map(normQuestion)
+                .filter((question): question is Question => question !== null),
+            );
+
+            const slug = String(dataset.slug || key)
+              .trim()
+              .toLowerCase();
+
+            if (!slug) continue;
+
+            savedDatasets[slug] = {
+              slug,
+              company: titleCase(slug),
+              questions,
+              totalQuestions:
+                Number(dataset.totalQuestions) || questions.length,
+              failedPages: Array.isArray(dataset.failedPages)
+                ? dataset.failedPages
+                : [],
+              fetchedAt: dataset.fetchedAt || new Date().toISOString(),
+            };
+          }
+        }
+
+        const selection: unknown = JSON.parse(
+          localStorage.getItem(SELECT_KEY) || "[]",
+        );
+
+        if (Array.isArray(selection)) {
+          savedSelection = selection.filter(
+            (slug): slug is string => typeof slug === "string",
+          );
+        }
+      } catch {
+        // Ignore malformed saved data and load the bundled file.
+      }
+
+      let bundledDatasets: Record<string, Dataset> = {};
+      let loadError = "";
+
+      try {
+        const response = await fetch("/data/questions.json");
+
+        if (!response.ok) {
+          throw new Error(
+            `Could not load /data/questions.json ` +
+              `(HTTP ${response.status}).`,
+          );
+        }
+
+        const text = await response.text();
+        const raw = JSON.parse(text.replace(/^\uFEFF/, ""));
+
+        bundledDatasets = parseImportedDatasets(raw, "questions.json", catalog);
+      } catch (error) {
+        loadError = error instanceof Error ? error.message : String(error);
+      }
+
+      if (cancelled) return;
+
+      // Load all bundled companies, then preserve saved company data.
+      const merged: Record<string, Dataset> = {
+        ...bundledDatasets,
+      };
+
+      for (const [slug, saved] of Object.entries(savedDatasets)) {
+        const bundled = bundledDatasets[slug];
+
+        if (!bundled) {
+          merged[slug] = saved;
+          continue;
+        }
+
+        const bundledByQuestion = new Map(
+          bundled.questions.map((question) => [
+            (question.slug || question.title).toLowerCase(),
+            question,
+          ]),
+        );
+
+        // Preserve saved values, restoring missing frequency labels
+        // from the corresponding company's bundled questions.
+        const restoredSavedQuestions = saved.questions.map((question) => {
+          const bundledQuestion = bundledByQuestion.get(
+            (question.slug || question.title).toLowerCase(),
+          );
+
+          return {
+            ...question,
+            frequency: question.frequency || bundledQuestion?.frequency || null,
+          };
+        });
+
+        const questions = dedupe([
+          ...bundled.questions,
+          ...restoredSavedQuestions,
+        ]);
+
+        merged[slug] = {
+          ...saved,
+          company: titleCase(slug),
+          questions,
+          totalQuestions: Math.max(
+            saved.totalQuestions,
+            bundled.totalQuestions,
+            questions.length,
           ),
         };
       }
-      setDatasets(stored);
-      if (stored.google) {
-        fetch("/data/google_questions.json")
-          .then((r) => (r.ok ? r.json() : null))
-          .then((raw) => {
-            const source = Array.isArray(raw) ? raw : (raw?.questions ?? []);
-            const labels = new Map<string, string>();
-            source.forEach((q: any) => {
-              const label = String(
-                q.frequencyLabel ?? q.frequency ?? "",
-              ).trim();
-              if (label)
-                labels.set(String(q.slug || q.title).toLowerCase(), label);
-            });
-            setDatasets((prev) => {
-              if (!prev.google) return prev;
-              return {
-                ...prev,
-                google: {
-                  ...prev.google,
-                  questions: prev.google.questions.map((q) => ({
-                    ...q,
-                    frequency:
-                      q.frequency ||
-                      labels.get((q.slug || q.title).toLowerCase()) ||
-                      null,
-                  })),
-                },
-              };
-            });
-          })
-          .catch(() => {});
-      }
-      const sel = storedSel.filter((s) => stored[s]);
-      setSelected(sel.length ? sel : [Object.keys(stored)[0]]);
-      setHydrated(true);
-      return;
-    }
 
-    // First visit: load the bundled Google starter
-    fetch("/data/google_questions.json")
-      .then((r) => (r.ok ? r.json() : null))
-      .then((raw) => {
-        if (!raw) return;
-        const list: any[] = Array.isArray(raw) ? raw : (raw.questions ?? []);
-        const qs = dedupe(list.map(normQuestion).filter(Boolean) as Question[]);
-        if (!qs.length) return;
-        setDatasets({
-          google: {
-            slug: "google",
-            company: "Google",
-            questions: qs,
-            totalQuestions: qs.length,
-            failedPages: [],
-            fetchedAt: new Date().toISOString(),
-          },
-        });
-        setSelected(["google"]);
-      })
-      .catch(() => {})
-      .finally(() => setHydrated(true));
+      const availableSlugs = Object.keys(merged);
+
+      const previousSelection = savedSelection.filter((slug) =>
+        Boolean(merged[slug]),
+      );
+
+      // Automatically select newly added bundled companies.
+      const newlyLoadedSlugs = Object.keys(bundledDatasets).filter(
+        (slug) => !savedDatasets[slug],
+      );
+
+      const initialSelection = Array.from(
+        new Set([...previousSelection, ...newlyLoadedSlugs]),
+      );
+
+      setDatasets(merged);
+
+      setSelected(initialSelection.length ? initialSelection : availableSlugs);
+
+      if (loadError) {
+        setError(
+          availableSlugs.length
+            ? `Saved data loaded, but the bundled file failed: ${loadError}`
+            : loadError,
+        );
+      }
+
+      setHydrated(true);
+    };
+
+    void initialize();
+
+    return () => {
+      cancelled = true;
+    };
   }, []);
 
   /* ---------- persistence ---------- */
