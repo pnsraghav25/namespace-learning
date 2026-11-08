@@ -147,7 +147,9 @@ export async function POST(req: NextRequest) {
   }
 
   const slug = resolveSlug(company);
-  const url = `${BASE}/namespace-learning/companies/${encodeURIComponent(slug)}${page > 1 ? `?page=${page}` : ""}`;
+  const url = `${BASE}/fleetcode/companies/${encodeURIComponent(slug)}${
+    page > 1 ? `?page=${page}` : ""
+  }`;
 
   try {
     const response = await fetch(url, {
